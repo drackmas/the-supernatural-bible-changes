@@ -1,0 +1,88 @@
+Title: Hosea
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- hosea.jpeg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 4 {#c4}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592381893535_1107
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 6 {#c4v6}
+        My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        I remember "My people perish for lack of
+        knowledge."
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592381962107_1471
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

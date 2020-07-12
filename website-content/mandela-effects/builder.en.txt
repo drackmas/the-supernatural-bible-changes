@@ -1,0 +1,267 @@
+Title: Mandela Effects
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- book-863418_1920.jpg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  texteditor: |
+    [{"attrs":[],"content":"This is a list of Mandela Effects (supernatural world changes) that we have put together for you. Please take note that these changes are not miss-remembering. They have been changed somehow through black magic that demons, angels, or even satan himself are using to alter our very reality.","id":"_6zkr07k3z","type":"paragraph"},{"attrs":[],"content":"It is the lying signs and wonders of 2 Thessalonians two that Satan causes before the anti-christ is revealed. The bible changes go with the famine for hearing the words of the Lord mentioned in Amos 8:11. It is also the changes that would happen in the last days that was prophesied in Enoch Chapter 80. If you do not know about this I highly suggest you do your own research because we very well may not have much time left. We do not know the day or hour of Jesus' return and anything is possible.","id":"_dihd1hu4q","type":"paragraph"}]
+  title: ""
+  editorwidth: large
+  editorback: default
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1592171702943_1767
+- 
+  columns:
+    - 
+      columncontent: '(image: forrest-gump-life-is-like-a-box-of-chocolate.jpeg caption: In the movie Forrest Gump "Life is like a box of chocolate" has been changed to "Life was like a box of chocolates". width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: '(image: mirror-mirror-snow-white.jpeg caption: In Snow White "Mirror Mirror on the wall" was changed to "Magic Mirror on the wall". width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ""
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592172069436_2147
+- 
+  columns:
+    - 
+      columncontent: '(image: oscar-meyer.jpeg caption: The brand "Oscar Meyer" has been supernaturally changed to "Oscar Mayer". width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: '(image: loonytoons.jpeg caption: Looney Toons has been supernaturaly changed to Looney Tunes. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592176014798_890
+- 
+  columns:
+    - 
+      columncontent: '(image: pikachu.jpeg caption: Pikachu no longer has a black tipped tail. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: '(image: jiffy.jpeg caption: Jiffy has been supernaturally changed to Jif width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ""
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592176866559_3115
+- 
+  columns:
+    - 
+      columncontent: "(image: ellis-island.jpeg caption: Statue of Liberty isn't on Ellis Island. Now it's Liberty Island. width: 400 height: 300)"
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: '(image: bananna.jpeg caption: Banannas have been renamed to bananas. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592373991263_7110
+- 
+  columns:
+    - 
+      columncontent: '(image: upside-down-banannas.jpeg caption: Banannas grow upside down now. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: '(image: curious-george.jpeg caption: Curious George no longer has a tail. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ""
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592374344061_7999
+- 
+  columns:
+    - 
+      columncontent: '(image: mona-lisa.jpeg caption: The Mona Lisa is smiling now. She never did before. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: '(image: fruitoftheloom.png caption: The cornucopia in the Fruit of the Loom logo has never existed. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592374554441_8734
+- 
+  columns:
+    - 
+      columncontent: '(image: berensteinbears.jpeg caption: The Berenstein Bears have been renamed to Berenstain. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: "(image: captaincrunch.jpeg caption: Captain Crunch cereal has always been named Cap'n Crunch. width: 400 height: 300)"
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ""
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592374966604_9595
+- 
+  columns:
+    - 
+      columncontent: '(image: chic-fil-a.jpeg caption: Chic-Fil-A has always been Chick-Fil-A width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: "(image: kit-kat.jpeg caption: Kit-Kat has never had a dash in it's name. width: 400 height: 300)"
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592375383091_2900
+- 
+  columns:
+    - 
+      columncontent: '(image: black-tom.jpeg caption: If you thought 911 was the second attack since Pearl Harbor you would be wrong now. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: "(image: hitler-hair.jpeg caption: Hitler's hair style has changed. width: 400 height: 300)"
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592375646321_3504
+- 
+  columns:
+    - 
+      columncontent: "(image: hitler-eyes.jpeg caption: If you thought Hitler's eyes were brown you would be wrong now. width: 400 height: 300)"
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: '(image: fruitloops.jpeg caption: Fruit Loops have always been called Froot Loops in this reality. width: 400 height: 300)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592375927816_4648
+
+----
+
+Metafile:
+
+- the-thinker-489753_1280.jpg
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: The Mandela Effect Part 1
+
+----
+
+Metadescription: Do you know that our reality is changing supernaturally? Here are some examples to hopefully jog your memory to show that things aren't how you remember them.

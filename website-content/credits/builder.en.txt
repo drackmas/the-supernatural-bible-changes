@@ -1,0 +1,116 @@
+Title: Credits
+
+----
+
+Headersection: false
+
+----
+
+Header: 
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  herotext: |
+    #<p style="text-decoration: underline;">Giving credit for material used</p>
+    ##Here are the sources:
+  title: ""
+  herostyle: image
+  herosize: large
+  herotextwidth: large
+  herotextalign: center
+  heroheadings: 'true'
+  herocover:
+    - sources-for-tsbc-bible-changes.jpg
+  _key: hero
+  _uid: hero_1590284483354_9079
+- 
+  columns:
+    - 
+      columncontent: 'Fire Icon logo made by [Freepik](https://www.flaticon.com/authors/freepik) at [Flaticon](www.flaticon.com). (image: fire.png width: 50 height: 50)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: 'Logo made using [FlamingText](https://flamingtext.com/).<br> (image: tsbc-logo.png width: 300 height: 300)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ""
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1590283155720_4334
+- 
+  columns:
+    - 
+      columncontent: 'Photo File sizes reduced using [TinyJPG](https://tinyjpg.com/).(image: panda-mandela-effect-bible-changes.png width: 100 height: 100)'
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: 'Stock photos used from [Pixabay](https://pixabay.com/).<br> (image: pixabay-bible-changes-mandela-effect.png width: 300 height: 300)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-secondary'
+  sectionremovepadding: ""
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1590285456946_13064
+- 
+  columns:
+    - 
+      columncontent: 'Stock photos used from [Unsplash](https://unsplash.com/).(image: unsplash-mandela-effect-bible-changes.jpg width: 100 height: 100)'
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ""
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1590374931030_1403
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

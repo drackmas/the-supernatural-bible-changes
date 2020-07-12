@@ -1,0 +1,304 @@
+Title: Matthew
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- matthew.jpeg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 6 {#c6}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592153445798_2563
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 8 {#c6v8}
+        Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        Grammar structure problem with a colon
+        being in this verse. Scriptures was
+        never written this way.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592153621268_2877
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 9 {#c6v9}
+        After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        This should say "Our Father WHO art in
+        heaven". Not which. This sounds similar
+        to "witch" when pronounced out loud and
+        it makes me think of the black magic
+        they are using to change scriptures to
+        begin with.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592153870853_3433
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 10 {#c6v10}
+        Thy kingdom come, Thy will be done in earth, as it is in heaven.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        More grammar structure errors with the
+        commas. This verse should say "ON earth
+        as it is in heaven". Not "in earth".
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592154081732_4039
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 11 {#c6v11}
+        Give us this day our daily bread.
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592154289603_4639
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 12 {#c6v12}
+        And forgive us our debts, as we forgive our debtors.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        This verse should be saying "and forgive us our trespasses as we forgive those who trespass against us". It doesn't say that anymore.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592154432027_5017
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 13 {#c6v13}
+        And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        Again we see punctuation errors that
+        shows this has been altered. There
+        should be no colons in the KJV.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592157043754_5763
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 9 {#c9}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592126057256_30382
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 17 {#c9v17}
+        Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: Bottles!!! This always said wineskins!
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592126231755_32182
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 13 {#c13}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592363761967_2252
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 22 {#c13v22}
+        He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        The seed that lands on the thorny ground is no longer taken away by the cares of this world which is internal from out to in. Cares of the world worrying about your bills. Worrying about relationships. Cares of the world has been changed. It now says "care of this world" which has a completely different meaning that's external. Outward. As in the green movement. Completely different meaning than cares of the world.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592363843765_2830
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

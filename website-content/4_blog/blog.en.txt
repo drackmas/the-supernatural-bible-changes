@@ -1,0 +1,105 @@
+Title: Blog
+
+----
+
+Header: 
+
+----
+
+Alttitle: The End Times Blog
+
+----
+
+Intro: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Categories: 
+
+----
+
+Perpage: 10
+
+----
+
+Sidebarblog: yes
+
+----
+
+Sidebarprofile: false
+
+----
+
+Sidebarcategories: false
+
+----
+
+Sidebararchive: true
+
+----
+
+Sidebartags: true
+
+----
+
+Sidebarsocialmedia: true
+
+----
+
+Profileimage: 
+
+----
+
+Profileheading: 
+
+----
+
+Profiletext: 
+
+----
+
+Sidebararticle: yes
+
+----
+
+Sidebararticlelatestposts: true
+
+----
+
+Sidebararticlecategories: true
+
+----
+
+Sidebararticlearchive: true
+
+----
+
+Sidebararticletags: true
+
+----
+
+Sidebararticlesocialmedia: true
+
+----
+
+Commentsswitch: true
+
+----
+
+Commentscode: 

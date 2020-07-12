@@ -1,0 +1,385 @@
+Title: KJV Bible
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- bible-4800347_1920.jpg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: genesis.jpeg link: kjv-bible/genesis width: 500 height: 300)
+        (link: kjv-bible/genesis text: The Book of Genesis)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/genesis#c1 text: [Chapter 1])
+        (link: kjv-bible/genesis#c1v1 text: [1])
+        (link: kjv-bible/genesis#c16 text: [Chapter 16])
+        (link: kjv-bible/genesis#c16v11 text: [11])(link: kjv-bible/genesis#c16v12 text: [12])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592357999692_1497
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: exodus.jpeg link: kjv-bible/exodus width: 500 height: 300)
+        (link: kjv-bible/exodus text: The Book of Exodus)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/exodus#c12 text: [Chapter 12])
+        (link: kjv-bible/exodus#c12v23 text: [23])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592382201180_1861
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: judges.jpeg link: kjv-bible/judges width: 500 height: 300)
+        (link: kjv-bible/judges text: The Book of Judges)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/judges#c16 text: [Chapter 16])
+        (link: kjv-bible/judges#c16v19 text: [19])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592382923968_2652
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: 2kings.jpeg link: kjv-bible/2kings width: 500 height: 300)
+        (link: kjv-bible/2kings text: 2nd Kings)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/2kings#c10 text: [Chapter 10])
+        (link: kjv-bible/2kings#c10v3 text: [3])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592393335385_2047
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: isaiah.jpg link: kjv-bible/isaiah width: 500 height: 300)
+        (link: kjv-bible/isaiah text: The Book of Isaiah)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/isaiah#c11 text: [Chapter 11])
+        (link: kjv-bible/isaiah#c11v6 text: [6])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592130548776_57203
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: hosea.jpeg link: kjv-bible/hosea width: 500 height: 300)
+        (link: kjv-bible/hosea text: The Book of Hosea)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/hosea#c4 text: [Chapter 4])
+        (link: kjv-bible/hosea#c4v6 text: [6])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592381699239_1007
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: joel.jpeg link: kjv-bible/joel width: 500 height: 300)
+        (link: kjv-bible/joel text: The Book of Joel)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/joel#c3 text: [Chapter 3])
+        (link: kjv-bible/joel#c3v4 text: [4])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592383746048_4774
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: matthew.jpeg link: kjv-bible/matthew width: 500 height: 300)
+        (link: kjv-bible/matthew text: The Book of Matthew)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/matthew#c6 text: [Chapter 6])
+        (link: kjv-bible/matthew#c6v8 text: [8])(link: kjv-bible/matthew#c6v9 text: [9])(link: kjv-bible/matthew#c6v10 text: [10])(link: kjv-bible/matthew#c6v11 text: [11])(link: kjv-bible/matthew#c6v12 text: [12])(link: kjv-bible/matthew#c6v13 text: [13])
+        (link: kjv-bible/matthew#c9 text: [Chapter 9])
+        (link: kjv-bible/matthew#c9v17 text: [17])
+        (link: kjv-bible/matthew#c13 text: [Chapter 13])
+        (link: kjv-bible/matthew#c13v22 text: [22])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592122418661_18381
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: mark.jpeg link: kjv-bible/mark width: 500 height: 300)
+        (link: kjv-bible/mark text: The Book of Mark)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/mark#c2 text: [Chapter 2])
+        (link: kjv-bible/mark#c2v21 text: [21])(link: kjv-bible/mark#c2v22 text: [22])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592129620647_51724
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: luke.jpg link: kjv-bible/luke width: 500 height: 300)
+        (link: kjv-bible/luke text: The Book of Luke)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/luke#c5 text: [Chapter 5])
+        (link: kjv-bible/luke#c5v37 text: [37])(link: kjv-bible/luke#c5v38 text: [38])
+        (link: kjv-bible/luke#c11 text: [Chapter 11])
+        (link: kjv-bible/luke#c11v2 text: [2])(link: kjv-bible/luke#c11v3 text: [3])(link: kjv-bible/luke#c11v4 text: [4])
+        (link: kjv-bible/luke#c19 text: [Chapter 19])
+        (link: kjv-bible/luke#c19v26 text: [26])(link: kjv-bible/luke#c19v27 text: [27])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592129750832_52612
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: john.jpeg link: kjv-bible/john width: 500 height: 300)
+        (link: kjv-bible/john text: The Book of John)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/john#c3 text: [Chapter 3])
+        (link: kjv-bible/john#c3v16 text: [16])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592373560852_5532
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: 1corinthians.jpeg link: kjv-bible/1corinthians width: 500 height: 300)
+        (link: kjv-bible/1corinthians text: 1st Corinthians)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/1corinthians#c13 text: [Chapter 13])
+        (link: kjv-bible/1corinthians#c13v13 text: [13])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592392389589_1233
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: galatians.jpeg link: kjv-bible/galatians width: 500 height: 300)
+        (link: kjv-bible/galatians text: The Book of Galatians)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (link: kjv-bible/galatians#c4 text: [Chapter 4])
+        (link: kjv-bible/galatians#c4v22 text: [22])(link: kjv-bible/galatians#c4v23 text: [23])(link: kjv-bible/galatians#c4v24 text: [24])(link: kjv-bible/galatians#c4v25 text: [25])(link: kjv-bible/galatians#c4v26 text: [26])(link: kjv-bible/galatians#c4v27 text: [27])(link: kjv-bible/galatians#c4v28 text: [28])(link: kjv-bible/galatians#c4v29 text: [29])(link: kjv-bible/galatians#c4v30 text: [30])(link: kjv-bible/galatians#c4v31 text: [31])
+        (link: kjv-bible/galatians#c5 text: [Chapter 5])
+        (link: kjv-bible/galatians#c5v1 text: [1])
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592360950288_3190
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

@@ -1,0 +1,269 @@
+Title: Luke
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- luke.jpg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 5 {#c5}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592128987763_46862
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 37 {#c5v37}
+        And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        This Verse did not say bottles. It was
+        WINESKINS!
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592129023390_47077
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 38 {#c5v38}
+        But new wine must be put into new bottles; and both are preserved.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        This did not say bottles. It said
+        WINESKINS.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592129247395_49341
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 11 {#c11}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592157297012_7248
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 2 {#c11v2}
+        And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        This should say "Our Father WHO art in
+        heaven" instead of which. Also should be
+        saying "on earth as it is in heaven"
+        instead of "as in heaven, so in earth".
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592157395271_7467
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 3 {#c11v3}
+        Give us day by day our daily bread
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        We know it to say "Give us this day our
+        daily bread" but this says "Give us day
+        by day our daily bread".
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592157948782_8027
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 4 {#c11v4}
+        And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        This verse should say "and forgive us our trespasses as we forgive those who trespass against us". Nowhere in the Lord's prayer verse that should mirror this one does it say anything about trespasses during the prayer. Did it?
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592158149958_8595
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 19 {#c19}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592190465601_1240
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 26 {#c19v26}
+        For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592190494458_1455
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 27 {#c19v27}
+        But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        Pastor Charles Garcia thinks it used to mean to shew them which means to shun or avoid those that refuse to follow Jesus Christ. The Message bible although it's not a good contemporary version says to "Get them out of here". Jesus doesn't want to see their faces anymore. This goes more along with what I think about this passage when I think of those that don't follow Jesus being cast out where there will be weeping and gnashing of teeth. He certainly didn't tell any of us to kill anyone that is unwilling to follow him!
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-bottom'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592190548696_1777
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

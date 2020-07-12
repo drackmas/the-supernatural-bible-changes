@@ -1,0 +1,29 @@
+Title: Search
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Press Enter/Return to began your search.
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: false
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Text: 

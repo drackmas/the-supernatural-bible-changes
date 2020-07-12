@@ -1,0 +1,259 @@
+Title: Lying Signs and Wonders
+
+----
+
+Headersection: false
+
+----
+
+Header: 
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  herotext: |
+    #"The days cometh sayeth the Lord, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord."
+    >##Amos 8:11 KJV
+  title: ""
+  herostyle: muted
+  herosize: ""
+  herotextwidth: large
+  herotextalign: left
+  heroheadings: 'false'
+  herocover: [ ]
+  _key: hero
+  _uid: hero_1590450849389_33514
+- 
+  texteditor: |
+    [{"attrs":[],"content":"You know that something just isn't quite right in the world. You can see signs of it with how the world has changed, with how people act around you, and how scriptures have turned to be blasphemous and wicked. The changes are so obvious but people just don't see or remember how things are supposed to be. They remember Noah getting swallowed by a fish, they remember not to put new wine into old bottles, and unfortunately they also remember the wolf that is now dwelling with the lamb.","id":"_pa89b9zx4","type":"paragraph"},{"attrs":[],"content":"If you are here because you are new to these changes and feel horrified and lost just know that you are not alone. We all went through the exact same thing when we opened up our scriptures only to see things in there that we had never seen before.","id":"_8HVcSA68K","type":"paragraph"},{"attrs":[],"content":"There is a simple explanation for this if you can just take a few moments and think about what scriptures told us would happen in the last days. We were told that there would be a day that there would be a famine for hearing the Words of the Lord. You can read the quote above where the verse is displayed at the top of this page. This is the shortage that Amos 8:11 talked about. The only way they will hear the truth now is if people like us share this with them.","id":"_EgvBVEXCT","type":"paragraph"},{"attrs":[],"content":"This is what is causing the lying signs and wonders if you aren't aware of it.","id":"_gZPIMqNIo","type":"paragraph"}]
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590450999421_33891
+- 
+  herotext: |
+    ##"Remember ye not, that, when I was yet with you, I told you these things? And now ye know what withholdeth that he might be revealed in his time. For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way. And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming: Even him, whose coming is after the working of Satan with all power and lying signs and wonders, And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. And for this cause God shall send them strong delusions, that they should believe a lie: That they all might be damned who believed not the truth, but had pleasure in unrighteousness."
+    
+    >###2nd Thessalonians 2:2-12 KJV
+  title: ""
+  herostyle: muted
+  herosize: ""
+  herotextwidth: large
+  herotextalign: left
+  heroheadings: 'false'
+  herocover: [ ]
+  _key: hero
+  _uid: hero_1590453340046_34697
+- 
+  texteditor: |
+    [{"attrs":[],"content":"Satan causes the lying signs and wonders. The anti-christ's coming is after that. The delusion is sent by our Father to believe these lies because they have not the love for the truth but had pleasure in unrighteousness. You see the signs of this with all the different scripture changes. It still seems crazy that people cannot remember all the altered worldly changes there are now. Our very history has been altered and most are completely oblivious of it.","id":"_4tNC2LSIg","type":"paragraph"},{"attrs":[],"content":"This isn't the only place in scriptures that mentions what is happening. One of the books that was taken out of most bibles, the book of Enoch, also accurately describes what is happening in the world right now.","id":"_15wPqeEs3","type":"paragraph"}]
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590453537282_36063
+- 
+  herotext: |
+    ##"And in those days the angel Uriel answered and said to me: ‘ Behold, I have shown thee everything, Enoch, and I have revealed everything to thee that thou shouldst see this sun and this moon, and the leaders of the stars of the heaven and all those who turn them, their tasks and times and departures. And in the days of the sinners the years shall be shortened, And their seed shall be tardy on their lands and fields, And all things on the earth shall alter, And shall not appear in their time: And the rain shall be kept back And the heaven shall withhold (it). And in those times the fruits of the earth shall be backward, And shall not grow in their time, And the fruits of the trees shall be withheld in their time. And the moon shall alter her order, And not appear at her time. (And in those days the sun shall be seen and he shall journey in the evening on the extremity of the great chariot in the west) And shall shine more brightly than accords with the order of light. And many chiefs of the stars shall transgress the order (prescribed). And these shall alter their orbits and tasks, And not appear at the seasons prescribed to them. And the whole order of the stars shall be concealed from the sinners, And the thoughts of those on the earth shall err concerning them, (And they shall be altered from all their ways), Yea, they shall err and take them to be gods. And evil shall be multiplied upon them, And punishment shall come upon them So as to destroy all."
+    >###Enoch 80:1-8
+  title: ""
+  herostyle: muted
+  herosize: ""
+  herotextwidth: large
+  herotextalign: left
+  heroheadings: 'false'
+  herocover: [ ]
+  _key: hero
+  _uid: hero_1590453636426_36774
+- 
+  texteditor: |
+    [{"attrs":[],"content":"Looking at these scripture verses and comparing that with what we are seeing we know that we are in the end days. For one it's odd that we don't see as many stars as we used to. Some point to light pollution, but there should still be many more than we're seeing now reguardless.","id":"_KPAU6v2Tp","type":"paragraph"},{"attrs":[],"content":"Both the sun and the moon are not acting normal anymore. Both the lighting of the sun and moon have changed to be more bright white. The sun feels like it's actually burning you in a painful way instead of just being uncomfortable on a hot day. Even the stars are blinking in multiple colors that didn't previously exist before.","id":"_uCnM4Uonp","type":"paragraph"},{"attrs":[],"content":"Now concerning the Mandela Effect and everything being changed, even this scripture tells us that everything on earth shall be altered. Examples of this are the Statue of Liberty changing locations, the JFK changing from 4 seats to 6 seats, and even the land masses moving around or missing like the north pole disappearing and South America shifting east.","id":"_heWFyEMk9","type":"paragraph"},{"attrs":[],"content":"Last thing to mention about this scripture is about fruit growing backwards. This is also taking place just like the book of Enoch told us it would. When you think about banannas growing on trees, which way are they pointing? Well from our memory of them they always pointed down but now they all seem to be pointing up in reverse of their natural direction. Another example of this is pineapples. You will not find one pineapple growing on a tree any more. Now they grow on small plants on the ground. Yes! On the ground. Just think about what this means when what we're seeing completely matches up with scriptures.","id":"_CiRikUhSv","type":"paragraph"},{"attrs":[],"content":"Now if you go back to the book of Daniel, it also says that during the end of days he will think to change times and laws. Is that not what we're witnessing as well?<br>","id":"_LVnbyEbRD","type":"paragraph"}]
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590453698687_37074
+- 
+  herotext: |
+    ##"And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time. But the judgment shall sit, and they shall take away his dominion, to consume and to destroy it unto the end. And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him."
+    >###Daniel 7:25-27 KJV
+  title: ""
+  herostyle: muted
+  herosize: ""
+  herotextwidth: large
+  herotextalign: left
+  heroheadings: 'false'
+  herocover: [ ]
+  _key: hero
+  _uid: hero_1590453913856_38262
+- 
+  texteditor: |
+    [{"attrs":[],"content":"One more thing to note before we look at another scripture that references the same thing. \"They shall be given into his hand until a time and times and the dividing of time.\" A brother remembers \"a time and times and half a time.\" Time is sped up but the past isn't changed by dividing time. Like what we've read in scriptures our world is being altered, but the past itself hasn't really been changed.","id":"_6w9bxm6l7","type":"paragraph"}]
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590453983605_38998
+- 
+  herotext: |
+    ##"When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand: ) Then let them which be in Judea flee into the mountains: Let him which is on the housetop not come down to take any thing out of his house: Neither let him which is in the field return back to take his clothes. And woe unto them that are with child, and to them that give suck in those days! But pray ye that your flight be not in the winter, neither on the sabbath day: For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be. And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened."
+    >###Matthew 24:15-22 KJV
+  title: ""
+  herostyle: muted
+  herosize: ""
+  herotextwidth: large
+  herotextalign: left
+  heroheadings: 'false'
+  herocover: [ ]
+  _key: hero
+  _uid: hero_1590454025302_39523
+- 
+  texteditor: |
+    [{"attrs":[],"content":"You can't count the seconds using Mississippi anymore as it's almost impossible to keep it going. Have you noticed that it's starting to feel like time is flying by? You can't even get as much done within a day that you used to be able to. It's either that we are all less productive now than we were years ago, or we simply don't have enough time in a day to accomplish everything that needs to be done. Which is it do you think?","id":"_q4ra41z31","type":"paragraph"}]
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590454063749_40436
+- 
+  herotext: |
+    ##"And from the time that the daily sacrifice shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand two hundred and ninety days. Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days. But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days."
+    >###Daniel 12:11-13 KJV
+  title: ""
+  herostyle: muted
+  herosize: ""
+  herotextwidth: large
+  herotextalign: left
+  heroheadings: 'false'
+  herocover: [ ]
+  _key: hero
+  _uid: hero_1590456903095_40946
+- 
+  texteditor: '[{"attrs":[],"content":"Just showing the time that we are looking for, but we are still unsure if the abomination of desolation is a spiritual event we cannot fully see or a physical one. The only thing we can do is keep watch and wait.","id":"_0Vzxx2ViN","type":"paragraph"},{"attrs":[],"content":"Why is it though we are able to see the changes?","id":"_rAhvgrbQh","type":"paragraph"}]'
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590456967094_41431
+- 
+  herotext: |
+    ##"And for this cause God shall send them strong delusion, that they should believe a lie: That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
+    >###2nd Thessalonians 2:11-12 KJV
+  title: ""
+  herostyle: muted
+  herosize: ""
+  herotextwidth: large
+  herotextalign: left
+  heroheadings: 'false'
+  herocover: [ ]
+  _key: hero
+  _uid: hero_1590457013499_42025
+- 
+  texteditor: |
+    [{"attrs":[],"content":"All of us for one reason or another have a love for the truth. We can see this reason also for those who aren't believers in Jesus Christ yet are still able to see the changes. It goes even further than that though.","id":"_95mdoyarz","type":"paragraph"}]
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590457048087_42510
+- 
+  herotext: |
+    ##"But if our gospel be hid, it is hid to them that are lost: In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them. For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake. For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ. But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us."
+    >###2nd Corinthians 4:3-7 KJV
+  title: ""
+  herostyle: muted
+  herosize: ""
+  herotextwidth: large
+  herotextalign: left
+  heroheadings: 'false'
+  herocover: [ ]
+  _key: hero
+  _uid: hero_1590457073544_43099
+- 
+  texteditor: |
+    [{"attrs":[],"content":"We are shocked that those around us that have studied scriptures for years don't seem to remember what scriptures said before the bible changes. Yet there are many of us who have been wayward from going to church, remembered less scriptures even, have hidden His Words in our hearts and were completely alarmed when we saw the supernatural changes taking place.","id":"_V9gGXY9Bb","type":"paragraph"},{"attrs":[],"content":"We can only thank our Father that he gave us eyes to see and ears to hear to know of the deception that has taken place. It has given us time to warn the flock about the times we are in, but we know full well it is their relationship with our Father and Jesus Christ that will determine if they wake up and not of anything we do ourselves. We are only the messenger.","id":"_wTqQtiHrj","type":"paragraph"}]
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590457116123_43613
+- 
+  texteditor: |
+    [{"attrs":[],"content":"So what should we be doing at this point?","id":"_ko253u34c","type":"paragraph"},{"attrs":[],"content":"If you do not know Jesus Christ the first thing you should be doing is going to our Father in prayer. Repent of your sins and acknowledge that Jesus is the Son of God who was sent to save us from our sins. Acknowledge that he died for us upon the cross and rose again on the third day. Remember if we don't have a relationship with Jesus, then we don't have a relationship with our Father. No one comes to the Father except through Him, so you must have a relationship with him in order to be saved and also have a relationship with our Father. Lastly on this, get baptized in order to receive the Holy Spirit.","id":"_wSPEJqOpl","type":"paragraph"},{"attrs":[],"content":"All of us for one reason or another have a love for the truth. We can see this reason also for those who aren't believers in Jesus Christ yet are still able to see the changes. It goes even further than that though.","id":"_Rabm5YCSd","type":"paragraph"}]
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590457150356_44226
+- 
+  herotext: |
+    ##Do not tell someone, "Here let me take this speck out of your eye" when you fail to see the plank that is within your own eye.
+    >###****Paraphrasing here
+  title: ""
+  herostyle: muted
+  herosize: ""
+  herotextwidth: large
+  herotextalign: left
+  heroheadings: 'false'
+  herocover: [ ]
+  _key: hero
+  _uid: hero_1590457186931_44934
+- 
+  texteditor: '[{"attrs":[],"content":"We should first make sure that we have a relationship with Jesus Christ and our Father in Heaven. Every soul matters...yes even your own! It is after that we can focus on warning the flock of the times we are in and trying to help everyone we can come to Jesus and our Father before time runs out.","id":"_tipGhPWVX","type":"paragraph"},{"attrs":[],"content":"Here are some Ideas of things you can do to spread the message:","id":"_gN532ATAP","type":"paragraph"}]'
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590457230055_45370
+- 
+  texteditor: |
+    [{"attrs":[],"content":"Family and Friends<br>- We don't know if our loved ones will see the signs like we do, but if we never talk to them then how will they find out?","id":"_7aapasl1a","type":"ul"},{"attrs":[],"content":"Social Media<br>- Facebook allows you to connect with many people you don't know. Other sites like Tumblr and Twitter might give you a broader range of sharing the message about the times we are in. It never hurts to plant more seeds.","id":"_t73gdpglm","type":"ul"},{"attrs":[],"content":"You-tube<br>- Even though it looks like it might end up being harder to share on this where they are really cracking down on content that they allow or deny, another voice could make the difference of more people coming to faith in Jesus Christ.","id":"_2kp1ovn4b","type":"ul"},{"attrs":[],"content":"Make a website<br>- With this method you gain more freedom with what you want to write about, but this option isn't a free one unless you do something like Blogger which you do have less control over.","id":"_b1hplgu4y","type":"ul"},{"attrs":[],"content":"Talk to Pastors\/Churches<br>- I realize this has been done by many and the results don't look so good. However, any positive response is a good one.","id":"_yu4ld979u","type":"ul"},{"attrs":[],"content":"Other methods<br>- Just some ideas off the top of my head: share written articles on various websites, do a podcast, do an internet radio show, or even make up fliers you can spread out wherever you go.","id":"_ojh3s0oyk","type":"ul"}]
+  title: ""
+  editorwidth: large
+  editorback: secondary
+  editorheadings: 'false'
+  _key: editor
+  _uid: editor_1590457263713_45953
+
+----
+
+Metafile:
+
+- blood-moon-lying-signs-and-wonders.jpg
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: Why are scriptures changing?
+
+----
+
+Metadescription: Bibles are supernaturally changing. It's the strong delusion. CERN, DWAVE computing, and Quantum Computers are causing this through black magic.

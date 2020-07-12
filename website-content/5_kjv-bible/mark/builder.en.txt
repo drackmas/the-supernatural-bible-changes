@@ -1,0 +1,115 @@
+Title: Mark
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- mark.jpeg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 2 {#c2}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592127385504_38266
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 21 {#c2v21}
+        No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        Pastor Charles Garcia referenced this
+        verse when talking about wineskins being
+        turned to bottles. Why then is this
+        verse talking about garments?
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592127433639_38554
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 22 {#c2v22}
+        And no man putteth new wine into old bottles: else the new wine doth burst the bottles, and the wine is spilled, and the bottles will be marred: but new wine must be put into new bottles.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        Why is this verse talking about bottles?
+        This should be WINESKINS!
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-top'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592127655771_40921
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

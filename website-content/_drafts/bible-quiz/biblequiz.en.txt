@@ -1,0 +1,37 @@
+Title: Bible Quiz
+
+----
+
+Header: 
+
+----
+
+Intro: 
+
+----
+
+Pagewidth: large
+
+----
+
+Text: 
+
+----
+
+Enablesidebar: false
+
+----
+
+Sidebartext: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metadescription: 

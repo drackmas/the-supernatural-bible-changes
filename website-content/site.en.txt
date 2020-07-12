@@ -1,0 +1,428 @@
+Title: The Supernatural Bible Changes
+
+----
+
+Author: TSBC
+
+----
+
+Twitteruser: @bible_changes
+
+----
+
+Logo:
+
+- tsbc-logo.png
+
+----
+
+Logoinverted:
+
+- tsbc-logo.png
+
+----
+
+Favicon:
+
+- 
+  id: fire.png
+
+----
+
+Logoheight: 50
+
+----
+
+Email: thesupernaturalbiblechanges@gmail.com
+
+----
+
+Navbarwidth: default
+
+----
+
+Menuposition: center
+
+----
+
+Sticky: true
+
+----
+
+Mobilenav: true
+
+----
+
+Rightnav: icons
+
+----
+
+Languagenav: false
+
+----
+
+Searchicon: true
+
+----
+
+Moreicon:
+
+(image: zero-one-light.svg alt: The Supernatural Bible Changes class: uk-width-small)
+
+### THE WORLD IS SUPERNATURALLY CHANGING!
+
+There is darkness in the world, but in the end it shall all come to light. So many things have changed but we remember the truth. The Supernatural Changes was created in order to help shed light on the darkness, but we can always use a helping hand. 
+
+To get in contact with us, you can either use discord (the link for this you can see scrolling down the homepage) or the Family chat page that is being developed currently. Comments on the website is also an option to get in contact with us.
+
+To reach us by email:
+(email: biblechanges@protonmail.com text: biblechanges@protonmail.com)
+(email: thesupernaturalbiblechanges@gmail.com text: thesupernaturalbiblechanges@gmail.com)
+
+Connect with us on (link: https://www.facebook.com/biblechanges text: facebook target: _blank),
+(link: https://twitter.com/bible_changes text: twitter target: _blank) or (link: https://www.instagram.com/biblechanges/ text: instagram target: _blank)
+
+----
+
+Menubuttontext: Visit us on Discord!
+
+----
+
+Menubuttonlink:
+
+- discord
+
+----
+
+Headeralign: center
+
+----
+
+Headerwidth: default
+
+----
+
+Pagetitlecolor: default
+
+----
+
+Pagetitlesize: large
+
+----
+
+Header: 
+
+----
+
+Socialstyle: icons
+
+----
+
+Social:
+
+- 
+  platform: Facebook
+  url: https://www.facebook.com/biblechanges/
+- 
+  platform: Instagram
+  url: https://www.instagram.com/biblechanges/
+- 
+  platform: Tumblr
+  url: >
+    https://biblechangesandprophecy.tumblr.com/
+- 
+  platform: Twitter
+  url: https://twitter.com/bible_changes
+- 
+  platform: Reddit
+  url: https://www.reddit.com/r/biblechanges/
+
+----
+
+Footercolor: secondary
+
+----
+
+Footerstyle: columns
+
+----
+
+Footercolumns:
+
+- 
+  footercolumn: |
+    #### Bibles are changing supernaturally!
+    
+    The hour is very short. Biblical prophecy is unfolding before our very eyes. It is the strong delusion from 2nd Thessalonians Chapter two. Are you awake yet?
+    
+    How is this happening? Some think it is CERN, D-WAVE computing, and Quantum Computers. Do your own research. NO matter what mechanism, however, it is satanic, black magic.
+    
+    The Name of Jesus Christ is The Word of God and he is unchanging and His Words are eternal. Forever settled in heaven. That said, there is an assault, a demonic inspired assault, against scripture. The Bride must wake up and defend the truth.
+  columnwidth: uk-width-1-2@m
+- 
+  footercolumn: |
+    ##### Amos 8:11
+    
+    There is truly a famine in the land for hearing The Words of the Lord. Every bible has been changed supernaturally, even dusty bibles sitting on dusty shelves. The worst part is that as scriptures continue to change it is becoming increasingly difficult to know what the verse was originally especially if verses have turned into complete nonsense verses.
+  columnwidth: uk-width-1-2@m
+- 
+  footercolumn: |
+    #### 2nd Thessalonians Chapter Two
+    
+    Scriptures tells us that the anti-christ cannot be revealed until the restrainer is removed. This word, restrainer, can no longer be found within the KJV bible. It goes on to say that the anti-christ won't be revealed until after satan does his work of lying signs and wonders.
+    
+    Anyone who knows of the supernatural bible changes and other physical changes, also known as the Mandela Effect, can see this as clearly being lying signs and wonders. The question is if you can see these deceptions as the lies they are or if this will lead you to being a part of the great falling away.
+    
+    Do you have a love for the truth? Can you hear what I'm trying to say? Can you see? Are you awake yet?
+  columnwidth: uk-width-1-2@m
+- 
+  footercolumn: |
+    ##### Revelation 19:13
+    
+    This verse tells us that the name of Jesus Christ IS The Word of God. He is eternal, unchanging and all powerful and His Words never fail, they are settled in heaven. What we are seeing is an assault against the printed and audible Bible and more.
+  columnwidth: uk-width-1-4@m
+- 
+  footercolumn: |
+    ##### 2nd Corinthians 4:3-4
+    
+    If scriptures are hidden, then it is hidden to them who are lost. The god of this world has blinded the minds of those who do not believe, unless the light of Jesus Christ, Who is the image of God, should shine unto them.
+  columnwidth: uk-width-1-4@m
+
+----
+
+Footercompacttext:
+
+[
+    {
+        "attrs": [],
+        "content": "Let\u2019s create something together",
+        "id": "_9e5dzy48s",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "If you have a website idea in mind or you need some advice about product design, feel free to <strong><a href=\"mailto:support@thezero.club\">contact me</a></strong>. Currently my time books quickly, so the sooner you write, the better it is for both of us.",
+        "id": "_es94v2v92",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Copyright: <a href="/credits">Credits</a>
+
+----
+
+Metafile:
+
+- >
+  lion-and-lamb-supernatural-bible-changes.jpg
+
+----
+
+Metatitle: The Supernatural Bible Changes | Bibles are changing supernaturally!
+
+----
+
+Metadescription: Bibles are supernaturally changing. It's the strong delusion. CERN, DWAVE computing, and Quantum Computers are causing this through black magic.
+
+----
+
+Labelreadmore: Read more..
+
+----
+
+Labelpublished: Published on
+
+----
+
+Labelarchivestitle: 
+
+----
+
+Labelarchivetext: 
+
+----
+
+Labelarchivename: 
+
+----
+
+Labelprofile: Profile
+
+----
+
+Labelcategories: Categories
+
+----
+
+Labelarchive: Archives
+
+----
+
+Labeltags: Tags
+
+----
+
+Labelstayconnected: Stay connected
+
+----
+
+Labelsharearticle: Share
+
+----
+
+Labelrelatedarticle: You might also like
+
+----
+
+Labelnext: Next article
+
+----
+
+Labelprev: Previous article
+
+----
+
+Labeltagged: Tagged
+
+----
+
+Labellatestposts: Latest Posts
+
+----
+
+Labelpostedin: Posted in
+
+----
+
+Labelwrittenby: Written by
+
+----
+
+Labelwrittenon: on
+
+----
+
+Labelcommentsheading: 
+
+----
+
+Labelprojectbutton: Discover
+
+----
+
+Labelnewer: newer projects ›
+
+----
+
+Labelolder: ‹ older projects
+
+----
+
+Labelnextproject: Next project
+
+----
+
+Labelprevproject: Previous project
+
+----
+
+Labelsearchtext: Press Enter/Return to began your search.
+
+----
+
+Labelsearchnote: You searched for
+
+----
+
+Labelsearchplaceholder: Search...
+
+----
+
+Labelsearchnoresults: No results.
+
+----
+
+Labellanguagetitle: Choose website language
+
+----
+
+Labellanguagefooter: English is the main website language.
+
+----
+
+Labelemail: Email
+
+----
+
+Labelname: Name
+
+----
+
+Labelmessage: Message
+
+----
+
+Labelsubmit: Submit
+
+----
+
+Labelsuccess: Success
+
+----
+
+Emailtext: 
+
+----
+
+Labelcaptcha: 
+
+----
+
+Labelcancel: Cancel
+
+----
+
+Labelwritttenon: on
+
+----
+
+Footercompact:
+
+[
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_hwieca3da",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Blogslug: News
+
+----
+
+Twitter: 
+
+----
+
+Twitter-user: @hellou
+
+----
+
+Appleicon: - 2018-skoda-superb-parked.jpeg
+
+----
+
+Favicon32: 
+
+----
+
+Favicon16: 
+
+----
+
+Msicon: 

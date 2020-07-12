@@ -1,0 +1,153 @@
+Title: Genesis
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- genesis.jpeg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 1 {#c1}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592358512350_50258
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 1 {#c1v1}
+        In the beginning God created the heaven and the earth.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        In the beginning God created the heavens and the earth.
+        The "s" is now missing from heavens.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592358629720_50819
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 16 {#c16}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592357646871_48170
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 11 {#c16v11}
+        And the angel of the Lord said unto her, Behold, thou art with child and shalt bear a son, and shalt call his name Ishmael; because the Lord hath heard thy affliction.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        I'm always questioning when I see "behold" in scriptures because it's been added so much. Also whenever you see GOD or in this verse LORD in all caps it's a giveaway that the verse has been altered. The original KJV never had either in all caps. I don't believe the word "shalt" was ever used either. It replaced "shall".
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592357755829_48714
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 12 {#c16v12}
+        And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: ""
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592358274759_49598
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

@@ -1,0 +1,86 @@
+Title: Voice Of The Remant
+
+----
+
+Headersection: false
+
+----
+
+Header: 
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  slideshow:
+    - 
+      slideimage:
+        - >
+          radio-votr-supernatural-bible-changes.jpg
+      slidecontent: '#Voice Of The Remnant'
+  title: ""
+  slideshowwidth: full
+  slideshowstyle: gradient-cover
+  slideshowanimation: fade
+  slideshowkenburns: 'true'
+  _key: slideshow
+  _uid: slideshow_1590381654071_11908
+- 
+  columns:
+    - 
+      columncontent: |
+        <!--VosCast.com Flash Player-->
+        <script type="text/javascript" src="//cdn.voscast.com/player/?key=7c4b14e83393257709917c5e747008b7"></script>
+        <!--End Player-->
+      columnwidth: uk-width-expand@m
+    - 
+      columncontent: |
+        <!--VosCast.com SHOUTcast Server Stats-->
+        <script type="text/javascript" src="//cdn.voscast.com/stats/display.js?key=7c4b14e83393257709917c5e747008b7&stats=servertitle,songtitle"></script>
+        <!--End SHOUTcast Server Stats-->
+      columnwidth: uk-width-expand@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ""
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1590379870979_6540
+
+----
+
+Metafile:
+
+- >
+  radio-votr-supernatural-bible-changes.jpg
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: Voice Of The Remnant
+
+----
+
+Metadescription: Bibles are supernaturally changing. It's the strong delusion. Listen in and learn about the delusion we find ourselves in with the lying signs and wonders.

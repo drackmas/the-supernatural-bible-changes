@@ -1,0 +1,346 @@
+Title: Galatians
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- galatians.jpeg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 4 {#c4}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592360676380_53983
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 22 {#c4v22}
+        For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        I think Hagar was a "bond servant" and
+        not a maid. Another thing I see popping
+        up allot is the words "for it is
+        written".
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592360775203_54347
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 23 {#c4v23}
+        But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        I'm not sure about the term "bondwoman" but it definitely shouldn't be one word. I still think this should say bond servant. The semi-colon is a giveaway that the verse has been altered. I also don't know about the word "freewoman" but that shouldn't be one word either.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592361325008_55306
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 24 {#c4v24}
+        Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        The semi-colon wasn't in the KJV. Pastor Charles Garcia mentioned in one of his videos that "Agar" was New Testament for "Hagar". It makes me question the whole verse just being honest.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592361577493_56201
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 25 {#c4v25}
+        For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: "Was Arabia added to the KJV? I'm not sure. What I do know is that the sentence structure is messed up with the three commas."
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592361777969_56872
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 26 {#c4v26}
+        But Jerusalem which is above is free, which is the mother of us all.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: "Which is above? Mother of us all? I don't know this verse enough to say for certain how this is supposed to be worded."
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592362125230_57810
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 27 {#c4v27}
+        For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        Whenever I see "for it is written" I
+        always have to wonder if this was there
+        because it has been added so much
+        throughout scriptures. Bearest?
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592362332141_58481
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 28 {#c4v28}
+        Now we, brethren, as Isaac was, are the children of promise.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: Grammar structure error.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592362656293_59049
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 29 {#c4v29}
+        But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: ""
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592362805501_59514
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 30 {#c4v30}
+        Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        Saith? The KJV used the word "sayeth". Bondwoman is not one word. It should probably also say bond servant instead of bondwoman. I still don't know about freewoman but that isn't a word when joined together either.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592362925298_60082
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 31 {#c4v31}
+        So then, brethren, we are not children of the bondwoman, but of the free.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: "The term bondwoman is being used. I don't think that was used in the KJV. I think Bond Servant was used though."
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592363184381_60547
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 5 {#c5}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592363402711_61012
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 1 {#c5v1}
+        Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        Insert of a comma. "Wherewith" would not
+        be in the KJV bible.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592363504718_61468
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

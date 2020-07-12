@@ -1,0 +1,93 @@
+Title: John
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- john.jpeg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 3 {#c3}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592373249234_4021
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 16 {#c3v16}
+        For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        My memory of this verse is, "For God so
+        loved the world that he sent his only
+        begotten Son, that whosoever believeth
+        in him shall not perish but have
+        everlasting life." "Should" makes it
+        seem like this may happen in the future.
+        "Shall" is an event that will take place
+        in the future.
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592373334870_4385
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

@@ -1,0 +1,194 @@
+Title: Home
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  slideshow:
+    - 
+      slideimage:
+        - supernatural-bible-changes-header-1.jpg
+      slidecontent: |
+        # There is a famine in the land...
+        
+        > The days cometh sayeth the Lord, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord.
+        
+        - Amos 8:11 KJV
+    - 
+      slideimage:
+        - quantum-bible-changes-header-2.jpg
+      slidecontent: |
+        ## It is the Lying Signs and Wonders.
+        > Even him, whose coming is after the working of Satan with all power and lyring signs and wonders...
+        
+        - 2nd Thessalonians 2:9 KJV
+    - 
+      slideimage:
+        - lying-signs-and-wonders-header-3.jpg
+      slidecontent: |
+        ### Repent! For the Kingdom of God is at hand!
+        
+        > For God so loved the world, that He sent His only begotten Son, that whosoever believeth in Him shall not perish, but have everlasting life.
+        
+        - John 3:16 KJV
+  title: ""
+  slideshowwidth: full
+  slideshowstyle: gradient-cover
+  slideshowanimation: fade
+  slideshowkenburns: 'true'
+  _key: slideshow
+  _uid: slideshow_1582190428871_1159
+- 
+  cpttext: '####Do scriptures not match up with how you remember them? Do you see new words, misspelled words, sentence structure errors, and words that have been completely removed from your bible? Click here to find out why this is happening.'
+  cptlinktext: The Supernatural Bible Changes
+  cptlink:
+    - lying-signs-and-wonders
+  cptbuttoncolor: ' uk-button-default'
+  cptbuttonsize: large
+  title: ""
+  cptstyle: image
+  cptsize: ' uk-section-small'
+  cpttextwidth: large
+  cptheadings: 'true'
+  cptimage:
+    - supernatural-bible-changes-page.jpg
+  _key: cpt
+  _uid: cpt_1592172845280_793
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: book-863418_1920.jpg caption: Have you noticed that everything around us has changed supernaturally? Maybe locations aren't where they are supposed to be and history events are not the same as we remember them? Here is our list of what we know has physically changed in this world SUPERNATURALLY due to the lying signs and wonders of 2 Thessalonians Chapter 2 in biblical scriptures. link: mandela-effects width: 500 height: 300 )
+        (link: mandela-effects text: Mandela Effects class: uk-button uk-button-primary uk-align-center)
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: |
+        (image: mandela-effect-bible-changes-audio.jpg caption: One of our brothers in Jesus Christ set up this up to help spread the information that we are in end times. link: audio width: 500 height: 300)
+        (link: audio text: Click here to go listen to The Voice Of The Remnant. class: uk-button uk-button-primary)
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ""
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'true'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1590321652256_36671
+- 
+  columns:
+    - 
+      columncontent: |
+        (image: paper-623167_1920.jpg caption: Our Blog where we are documenting what our brothers and sisters have found relating to Bible Prophecy, End Time Events, and The Mandela Effect. link: blog width: 500 height: 300 )
+        (link: blog text: Blog Posts class: uk-button uk-button-primary uk-align-center)
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1592192374703_16782
+- 
+  columns:
+    - 
+      columncontent: '(image: discord-logo-supernatural-bible-changes.png width:400 height:100)'
+      columnwidth: uk-width-1-3@m
+    - 
+      columncontent: |
+        ##Chat with us on Discord!
+        Contact with other people that see the supernatural bible changes is just a click away! We chose discord because of how easily accessible it is fro the web browser as well as the convenience the mobile apps provide on both Android and I-Phone's IOS. It sends out notifications when someone sends a message to Discord so you will always know what is going on. To learn how to use discord, you can use the instructions that Discord provided (link: https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started text: here target: _blank).
+        
+        Hope to hear from you soon!
+      columnwidth: uk-width-1-3@m
+    - 
+      columncontent: '<iframe src="https://discordapp.com/widget?id=613924778360963073&theme=dark" width="100%" height="400px" allowtransparency="true" frameborder="0"></iframe>'
+      columnwidth: uk-width-1-3@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-secondary'
+  sectionremovepadding: ""
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'true'
+  columnsdivider: 'false'
+  centertext: 'true'
+  gridheadings: 'false'
+  _key: grid
+  isnew: true
+  _uid: grid_1590392873156_23473
+
+----
+
+Metafile:
+
+- >
+  lion-and-lamb-mandela-effect-bible-changes.jpg
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: The Supernatural Bible Changes
+
+----
+
+Metadescription: Bibles are supernaturally changing. It's the strong delusion. CERN, DWAVE computing, and Quantum Computers are causing this through black magic.
+
+----
+
+Sectionsmargin: xlarge
+
+----
+
+Intro: This is intro text.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Hello",
+        "id": "_x5fq3e4yt",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Editor:
+
+> hello
+
+
+
+***

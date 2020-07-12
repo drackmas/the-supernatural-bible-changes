@@ -1,0 +1,90 @@
+Title: 1st Corinthians
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- 1corinthians.jpeg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columncontent: '#Chapter 13 {#c13}'
+      columnwidth: uk-width-1-1
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592392626068_8732
+- 
+  columns:
+    - 
+      columncontent: |
+        ###Verse 13 {#c13v13}
+        And now abideth faith, hope, charity, these three; but the greatest of these is charity.
+      columnwidth: uk-width-1-2@m
+    - 
+      columncontent: >
+        Is it Faith hope and charity...or is it
+        Faith hope and love? I can give to
+        charity to make myself look better. I
+        could also do so to get tax breaks. This
+        verse always said LOVE!
+      columnwidth: uk-width-1-2@m
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ' uk-padding-remove-vertical'
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'true'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592392662204_9096
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
