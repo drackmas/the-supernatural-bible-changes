@@ -1,0 +1,72 @@
+Title: Repository
+
+----
+
+Headersection: true
+
+----
+
+Header: 
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columnwidth: uk-width-1-2@m
+      columncontenthtml: markdown
+      columncontent: '(image: code-5290465_640.jpg)'
+      columnhtml: ""
+    - 
+      columnwidth: uk-width-1-2@m
+      columncontenthtml: markdown
+      columncontent: |
+        This is a Public Github backup of all the content used on the main Supernatural Bible Changes website. The engine used for this content is called Kirby and can be aquired (link: https://getkirby.com text: here).
+        
+        The template that this used along with Kirby is called the Zero-One theme. If you wish to use this than it can be aquired (link: https://www.getkirby-themes.com/themes/zero-one/ text: here).
+        
+        Here is the (link: https://github.com/drackmas/the-supernatural-bible-changes text: Github Repository).
+      columnhtml: ""
+  title: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ""
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1594531322109_2030
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
