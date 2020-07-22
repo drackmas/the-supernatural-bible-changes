@@ -1,0 +1,90 @@
+Title: Miss Amy - Mandela Effect: Want to go Home? You've got a decision to make.
+
+----
+
+Date: 2017-09-17 05:20
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: With the Rev 12 Alignment in less than a week, followed closely by the Sheepfold/Draco Alignment in October, it's time for all of us Mandela Effected to consider the possibility of being rescued from this phony, mirror planet (Bozrah), and if there's anything we need to do to prepare.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Are you Mandela Effected? Are you watching the heavens for the solar eclipses, Revelation 12 alignment, etc for any given sign that you might get to go home and leave this place of bondage? There is a great hope as we go through these perilous times.",
+        "id": "_e4h76foz8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+miss-amy-mandela-effect-want-to-go-home-you-ve-got-a-decision-to-make/files/revelation12.png",
+            "id": "blog/miss-amy-mandela-effect-want-to-go-home-you-ve-got-a-decision-to-make/revelation12.png",
+            "ratio": 1.8848484848484848,
+            "caption": "Revelations 12"
+        },
+        "content": "",
+        "id": "_9sgrkh614",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Revelations 12 is the confirmation in the heavens of our \"flying\" to this world to be protected and then being held captive. The first week of October another alignment will occur which foretells Christ breaking us free and taking us home.",
+        "id": "_wjb5nkiis",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+miss-amy-mandela-effect-want-to-go-home-you-ve-got-a-decision-to-make/files/bozrah.png",
+            "id": "blog/miss-amy-mandela-effect-want-to-go-home-you-ve-got-a-decision-to-make/bozrah.png",
+            "ratio": 0.9183098591549296,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_nr1y9ml1s",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Are you coming home with us?",
+        "id": "_w983sor7c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For God so loved the world that He sent His only begotten Son, that whosoever believeth in Him shall not perish but have everlasting life.<br>\u2013John 3:16",
+        "id": "_9nv3gntes",
+        "type": "blockquote"
+    }
+]
+
+----
+
+Cover:
+
+- bozrah.png
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: Miss Amy
+
+----
+
+Featured: 

@@ -1,0 +1,152 @@
+Title: Miss Amy - End Times: The Ring of Fire. California or Bust.
+
+----
+
+Date: 2018-08-23 03:25
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: Following an 8.2 magnitude in the Ring of Fire beneath Lombok Island and Figi causing the tectionic plates to move and adjust, all crazy has broken loose in the Ring with over 70 earthquakes in 48 hours and more to come.  The "Big One" is forecasted for the West Coast we wonder what it would be like to have a 9.0 along the California coastline.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Our Hawaiian Islands are in the middle of the Ring of Fire.",
+        "id": "_kh6kab4rb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What is the Ring of Fire?",
+        "id": "_z4i7d5wbf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The Pacific Ring of Fire is an area of often earthquakes and volcanic eruptions around the Pacific ocean. The Ring of Fire has 452 volcanoes. Ninety percent of the world's earthquakes and 81 percent of the world's largest earthquakes occur along the Ring of Fire.",
+        "id": "_576wr89uk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This August 2018, significant earthquakes have rattled 66 countries within the Ring of Fire further fulfilling the biblical prophecies concerning increased earthquakes in the end times.",
+        "id": "_6jp88mt9k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"And there shall be earthquakes in diverse places\" \u2013 Luke 21:11",
+        "id": "_ooc6lyx7i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Over 70 moderate to large earthquakes have jolted the Ring of Fire in the past 48 hours. This following a very deep 8.2 under Fiji and the Lombok Island on 8/19/18 that caused the entire area's tectonic plates to move and give way.",
+        "id": "_32lkw1zw1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Larger than normal earthquakes are still expected throughout the Ring of Fire, along with volcano eruptions and tsunamis.",
+        "id": "_y64t71i0n",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We have a love affair with the Pacific, it's beautiful lands and people.",
+        "id": "_ntlg96bos",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The entire West Coast is in the Ring of Fire and fears of the \"Big One\" of 9+ mag with tsunami could be on the way.",
+        "id": "_xvxgt5k4y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hollywood is at risk along the Ring of Fire.",
+        "id": "_vlhi5hbkc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Rodeo Drive perilously winds along the Ring of Fire.",
+        "id": "_xczjsnu6p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "San Francisco stretches dangerously over the Ring of Fire.",
+        "id": "_e854u6eim",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Portland sits precariously along the Ring of Fire.",
+        "id": "_zoy7wkaea",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Seattle sits dangerously atop the Ring of Fire.",
+        "id": "_hefuuemxp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Anchorage lies quietly along the Ring of Fire.",
+        "id": "_9wm1j681k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We are in the end times.",
+        "id": "_yqvhvfda0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Are you Ready?",
+        "id": "_0ekj8lg3c",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_yfhjp6k61",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- ring-of-fire.png
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: Miss Amy
+
+----
+
+Featured: 
