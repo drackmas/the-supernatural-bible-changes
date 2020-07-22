@@ -1,0 +1,74 @@
+Title: To The Remnant #3
+
+----
+
+Date: 2019-10-16 11:30
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #3. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "{ 2.} To The Remnant <br>In this time of tribulation,<br>forget not, that you are Loved.<br>forgot not, that His Mercy Rains down from Above.<br>forget not, that He alone Is Love.",
+        "id": "_8IAsUP9Me",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In times of despair, remember.<br>He is with you now, and is always there.<br>He knows the terror that tries by night. <br>Nothing escapes His sight.",
+        "id": "_cx3t7y5HB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Take head, a thief has come, not for money, <br>nor for gold, but for the Truth in our hearts.<br>Guard yourself, as soldiers do, knowing He already covers you. <br>For The Truth is Written in our hearts. Do no be afraid. <br>For He already Conquered the grave.",
+        "id": "_ZTSoELGNq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Have courage, and be filled with joy, For He is our defense. <br>Even when those among us take offense. <br>Be not discouraged, for He is The Light that gives us Sight. <br>Even unto the darkest hour of the night.",
+        "id": "_6CwprufMo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ye though we walk through valley of the shadow of death, fear ye no evil. For the Lord is with us. Who then can stand against us? <br>We are more than conquers, for the battle is His.<br>It is not a war we fight, its The Victory we Proclaim, given by the Power of His Name",
+        "id": "_Wxa9NlEzA",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

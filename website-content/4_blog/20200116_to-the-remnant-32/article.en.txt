@@ -1,0 +1,68 @@
+Title: To The Remnant #32
+
+----
+
+Date: 2020-01-16 23:10
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #32. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Remnant <br>For He is the Author of our Faith, and a good work He will complete.<br>Do not be afraid, for He will met all of your needs.<br>For His glory alone, ask and you shall receive.<br>As a witness of your Faith, For His glory He shall provide.<br>Let us not be as roaring tides.",
+        "id": "_6UT8bDsXd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For our Father is in Heaven Holy Is His Name.<br>Righteous and True.<br>Be anxious in nothing, but in everything prayer and supplication,<br>Let His peace that surpasses all understanding be a comfort to you.",
+        "id": "_QYi86ojRV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For by His breath alone there was and now is air to breath.<br>Is it not possible for Him to watch over you Faithfully?<br>For He is Creator of the Heavens and the Earth.<br>In each living being is a witness to His signature. <br>As the birds sings, and the fish swim there He is again.<br>Always and forever never to be removed.<br>Faithful and True. <br>He still creates each day for you.",
+        "id": "_l5HUbCK3m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "There is nothing new under the sun.<br>In Love Abraham gave his son.<br>For what mystery is there then, that we should find?<br>In all seasons and a appointed time.<br>Let us seek and and there we shall find.<br>Even what you now cannot see, or believe.<br>Jeremiah 33:3<br>\u201cCall unto me, and I will answer thee, and show you great and mighty things,<br>which you know not.",
+        "id": "_2ja7VOavk",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

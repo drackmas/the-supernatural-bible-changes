@@ -1,0 +1,50 @@
+Title: To The Remnant #39
+
+----
+
+Date: 2020-03-25 23:25
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #39. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "-{ 1.1.} The Remnant -<br>In this time of tribulation,<br>forgot not, that His Mercy Rains down from above, <br>forget not, that He alone Is Love. <br>In times of despair, remember. <br>He is with you now, and is always there.<br>He knows the terror that tries by night. <br>Nothing escapes His sight. <br>He warned us, of this very hour.<br>A plot to steal, to kill, and destroy. <br>A lion, seeking whom he may devour. <br>Behold, a thief has come, not for money, nor for gold, but for the Truth in our hearts. <br>Guard your hearts, least your house will be broken into.<br>Arm yourself, as soldiers do. <br>Remembering He already covers you. <br>For what other good is there to do, than to give what has been given to you?<br>The Word from beginning <br>Now sealed in our hearts.<br>In His Love there is no end, He is our Salvation. <br>He already Conquered the grave. <br>For It is By His Grace that we are Saved.",
+        "id": "_efsx2myl2",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

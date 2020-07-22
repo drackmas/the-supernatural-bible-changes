@@ -1,0 +1,56 @@
+Title: To The Remnant #46
+
+----
+
+Date: 2020-04-13 23:35
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #46. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "-To The Remnant <br>My cup runneth over, He prepares a table before me.<br>In the time of famine I have plenty for His Perfect Words of promise sustain me.<br>He Shields me from my enemies, and conceals me from their sight.<br>For even if they look they shall not find.<br>For my door posts are hidden from their eyes.",
+        "id": "_ExAbm28I4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "He alone is worthy to be praised. <br>How Great is His Might.<br>For the Sun is put shame by His Light.<br>I am hidden in His hands.<br>Why should I fear the plots of man?<br>For the battle is not flesh or blood.<br>Did He not consume the egyptians in a great flood?<br>For He prepares a way, and parts the seas.<br>All plans and wicked schemes He uproots like a withered trees before me.<br>They take no root and meet there demise.<br>For surely Goodness and Mercy shall follow me all the days of my life.<br>Even in the shadow death, what evil shall His Children fear?<br>Knowing their redemption draweth near.<br>No plagues of sickness, nor evil ploys shall destroy in all His Holy Mountain.<br>His Children shall not fear, for they are hidden in His hands.<br>For How Greats is He \u2018The I AM.\u2019<br>The Creator of all that was and ever will be has prepared a feast even in the midst of enemies.<br>Glory, Glory, to the Lamb that was slain and has risen, let us proclaim.<br>His Name above all Names, by which hearts can been changed.<br>No longer cold as stone, now made flesh. <br>He is My Shelter and my home.<br>He speaks life to the dry bones, with Him we are never alone.<br>By His Promises we are saved, even from the grave.<br>His enemies will be as dust under His Feet.<br>For Behold He is coming quickly and He shall surely find Faith in me.<br>For every knee Shall bow, let us then give Him the glory now.",
+        "id": "_c4O6rRp9K",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

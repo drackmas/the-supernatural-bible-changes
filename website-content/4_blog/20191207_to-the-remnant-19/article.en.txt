@@ -1,0 +1,62 @@
+Title: To The Remnant #19
+
+----
+
+Date: 2019-12-07 12:10
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #19. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Revelations Effect- The Remanent --- The victory is His, the war is won. The battle can end before its begun. With the renewing of our mind and a surrendering of our heart. Knowing He has been with us from the start. In all things, and through all things He is Good. For He is Patient, long suffering, full of kindness, abundant in Mercy and Grace.<br>For He did not hide His face from us, as we too were once lost, though now we are found, He is our solid ground. The Shepherd knows our name, let us then seek to know His voice so we may hear His calls. Let us be watchman stationed among the walls.",
+        "id": "_LT6wtBGQj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Praying to escape what is here, and is yet to come, praying to endure all things until then end. Rejoicing in our Salvation. Remembering our place, continuing the race, living by faith. . If faith of a mustard seed can move mountains.<br>What can the faith the size of a mountain produce?<br>Or that of a palm tree seed?<br>Were we lack in faith let us ask for faith. Where we lack in wisdom<br>let us ask for wisdom. We have not because we ask not therefore let us ask, knowing our heavenly Father is Good, and He does not withhold good gifts from His children. For we are His.",
+        "id": "_rdZxFIJEU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "He is our Refuge our Strength and where our Help comes from. <br>His presence can rest upon our shoulders, His peace can accompany our steps.<br>His words can light our path. His hope can direct our ways.<br>His Holy Spirit can be our comfort, His Love is our foundation. <br>For He is The King of Kings there is none like Him, the one who was and is to come. Faithful Holy and True The Alpha Omega, The Beginning and End. Our Savior and friend.",
+        "id": "_pIVQCxbBq",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

@@ -1,0 +1,80 @@
+Title: To The Remnant #31
+
+----
+
+Date: 2020-01-14 23:10
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #31. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Remnant <br>The Heavenly Father told us the end from the beginning.<br>He sees beyond eternity, and what we cannot even comprehend. <br>For we see a day, and a year and a season. <br>Yet He already knows the reason for all things. <br>Let this be a reason your heart sings.",
+        "id": "_Y1yMpFGRt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For His Kingdom shall endure forever. <br>His children will not waiver to and fro as the waves.<br>Forgetting that they have been called and saved. <br>His children will not be dry as the earth in the dessert. <br>Rather, let then be as water, bringing life. <br>For there are many who hunger and thirst. <br>For His children shall be the salt of the earth.",
+        "id": "_OIGQB5lvK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "His children will know they are not forgotten or alone. <br>For He who sits on the Heavenly Throne. <br>Has promised to deliver them by His strength alone.",
+        "id": "_OybWsSe0D",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "As the time of the Israelites. <br>By Faith a journey to a land that had not yet been seen. <br>In hope of a promise, they choose to believe. <br>Given by Love to those who receive the Truth.",
+        "id": "_0UKQCLecW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Now, persevering In Love, Faith and Hope. <br>Let us believe what His prophets first spoke. <br>Remembering the promise of the Promise Land. <br>Knowing His thoughts for His Children out number the grains of sand. <br>His children whom He sets apart, shall proclaim. <br>Holy, Holy, Is His Name above all Names. <br>The Name by which we have been saved by grace. <br>For this is the walk of Faith.",
+        "id": "_Rms8mZqLW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Even as Jonah in the belly of the whale for three days. <br>Let us pray the lost seek His face while it can be found. <br>Before the final trumpet and the joyful sound. <br>For it is then every knee shall bow. <br>Let us then seek to give Him glory now.<br>For soon the King of Kings shall come. <br>His will shall be done.",
+        "id": "_8My70xAoM",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

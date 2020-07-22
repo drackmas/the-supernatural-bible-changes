@@ -1,0 +1,62 @@
+Title: To The Remnant #48
+
+----
+
+Date: 2020-07-21 23:40
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #48. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "-To The Remnant <br>He knows The Beginning from The End, <br>He Created the foundations of the Earth.<br>He took the curse, and gave us everlasting life. <br>He Separated the day from the night.<br>Creating stars and the moon for our sight.<br>His Children out number the grains of sand.<br>For they are His, sheltered by His Hands.",
+        "id": "_tXcBuDeBv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "His Spirit like a dove, His Love outstretches the sky.<br>Taken up by eagles wings, His children can fly.<br>Above the shackles of the earth. <br>Free from death, and its curse.<br>For in Him there is no bounds.<br>Through Him all Hope and Freedom is found.<br>For though we were once lost, yet now we are found.",
+        "id": "_uVGFouJJF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The Good Shepherd, keeps His flock, watching day and night.<br>The Good Shepherd lays down His life as a sacrifice.<br>That we be given sight to see, He is the Creator of all things.<br>He is The Rock of our Salvation, our Refuge and Strength.<br>He is Almighty to Save those who call upon His Name.<br>Unless we be as children we cannot enter into the kingdom of heaven and know His Face.<br>Let us not surrender our faith, or depart from Grace.<br>For a thief comes in the night to uproot and steal what was Good, and given by His Might.<br>Keeping steadfast in the Truth, guard your hearts as though they were your eyes.<br>For those who overcome shall eat from the Tree of Life.<br>Out the abundance of the heart the mouth speaks.<br>Let our hearts seek His Abundant Mercy and Loving Kindness.<br>Though we are weak, He is Strong.<br>For we are to be as Children in His arms.<br>For there is no fear, in perfect Love.<br>His Spirit gentle as a dove.<br>Let His Children Rejoice knowing they are Loved.",
+        "id": "_w1GyWYmJP",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

@@ -1,0 +1,50 @@
+Title: To The Remnant #35
+
+----
+
+Date: 2020-02-04 23:20
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #35. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "-The Remnant {3.9}<br>How can I deserve your Love, Oh Heavenly Father above?<br>How can I deserve your mercy or your grace?<br>Is it true that you would even look upon my face?<br>Though you are with me daily, I know I run from you in part.<br>Even though you have been with me from the start.<br>I feel your loving kindness towards me, as the stars above.<br>Without number you have saught to sow your light and your love.<br>Yet still I am afraid and ashamed and I hide my face from you.<br>Although I long to look upon you. In all my ways I seek to acknowledge you.<br>Within my heart you speak words I could never know.<br>You make a heart of flesh, were there once was stone.<br>You are my home, with you I am not alone.<br>I am not only flesh and bone. <br>By the Spirit In Love and Truth you have never forsaken me<br>even in my youth.<br>When the world rejected me, you were my comfort.<br>When I was forsaken, you took me into your place of rest.<br>You did not leave me in the temptation of the wilderness.<br>You saught me even when I was in the depths of sin.<br>You saught me out, when I repented.<br>You heard my cry in the dessert.<br>You lead me into the path of righteousness for Your Name sake<br>I follow you, for you alone are Good Righteous and True.<br>By Faith I seek you,<br>Yet I still I hide my face, for how is it you have such grace?<br>The King of Peace in every storm.<br>By your shelter I am kept, in a world without comfort<br>For by which I am met with your Love and set free.<br>From captivity. <br>How can He know me and Love me still?<br>Are we not like Israel, struggling to enter in battling with flesh and sin<br>Though He is the one who molded His Children like clay.<br>His Love surpasses all understanding.<br>For He alone is Holy, and True,<br>All His children are precious in His sight.<br>For even so, unworthy to be called. <br>Without number they more than every grain of sand.<br>For He is way to the Promise Land, He will never fail.<br>Let us answer, and not hide as Jonah and the whale.<br>As His spirit is as a Dove.<br>For Truly He is the Author of Love.",
+        "id": "_kokx98353",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

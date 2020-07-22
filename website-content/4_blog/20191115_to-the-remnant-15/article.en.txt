@@ -1,0 +1,74 @@
+Title: To The Remnant #15
+
+----
+
+Date: 2019-11-15 12:05
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #15. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Revelations Effect. The Remnant <br>The words of the Creator cannot fit in a book.<br>For they are so many, the world could not contain.<br>Oh Heavenly Father, Holy be Thy Name. Let us not remain, as we once were.<br>For let us be changed. By the power of your Name.",
+        "id": "_2XWdWfABB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Thy Kingdom come Thy Will be done on earth as it is in heaven.<br>As He forgives us of our trespasses, let us forgive those who trespass against us. <br>For our sins He blots out, remembering them no more. <br>From sea to sea, shore to shore.",
+        "id": "_4URFmrZc7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The words of God created and brought fourth all Life. <br>His words, brought day, and night. <br>His words, gave the stars there light.",
+        "id": "_ZXnNB9rPe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How much more valuable are you than a sparrow? <br>Is the grass not clothed, do the stars not shine from above?<br>He who Created all living things is called Love. <br>He Loved from The Beginning, In His Love you will find no end.<br>For He is The Beginning and The End.<br>Let us then, rejoice in our Salvation.",
+        "id": "_BBXPsUmaB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "His words are without blemish, beautiful and True, never to be changed. <br>For He is the same today and forever, always to remain. <br>Holy Holy is His Name, Name above all Names<br>His words shall never fail, they shall never to depart. <br>Let us remember He has sealed His words in our Hearts.",
+        "id": "_oIh8YsQjO",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

@@ -1,0 +1,56 @@
+Title: To The Remnant #45
+
+----
+
+Date: 2020-04-13 23:35
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #45. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "---27 ----- <br>Remember He is the One who is Mighty to save.<br>He who already conquered death and the grave.<br>He writes His Words upon our hearts.<br>He seals us by His Goodness and Grace.<br>By His Mercy we can seek His face.",
+        "id": "_iXKMWJSmU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For what good is it to warn of the dark, without speaking of The Light.<br>For a world in darkness needing The Light, as plants needs the sun.<br>In a place so cold in a world so old, many live without life.<br>For what lie of darkness can benefit the Light.<br>Is darkness not the absence of Light?<br>Are His Children not precious in His Sight?<br>It is by His Love that we are saved.<br>For what fellowship can we gain by looking upon the darkness that seeks to reign?<br>For are we not called by His Name, to give Him praise, and seek His face.<br>Who will say He is the Light of the world in the darkest of days.<br>For it is by Him alone we are Saved.<br>For everyone that asketh recieveth <br>and he that seeketh findeth.<br>In a time of peril and distress among nations.<br>In a time of tribulation and chastisement. <br>We must remember His promise and Covenant. <br>He who is Love, fills our cup and prepares a table before us even in the presence of our enemies.<br>Even as Ester was taken as a virgin bride and chosen among all others by the king.<br>We must remember the King of Kings the one who can cause our hearts sing.<br>Our light must not dim, nor our oil run out.<br>For who will speak of His return with a praise and a shout.<br>For our redemption draweth near, even at the doors. He who is Love remembers our sins no more, blotting them out from sea to sea and shore to shore.",
+        "id": "_uhVAdWtnK",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

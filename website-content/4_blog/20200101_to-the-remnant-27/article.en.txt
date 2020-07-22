@@ -1,0 +1,50 @@
+Title: To The Remnant #27
+
+----
+
+Date: 2020-01-01 23:05
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #27. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Remnant : That which is broken. Can only be restored, and bound together by that which brings life, truth, love, and hope. <br>Love is the what holds us together, Truth is what keeps us from breaking apart, and Hope is what seals The Love of The Truth.<br>Without Truth, to light the way, we cannot see, <br>Without Love there is nothing to walk for.<br>Without Hope there is nothing to live for. <br>With Him who is Love, Truth, and our Hope All things are possible.",
+        "id": "_2b97w6bb9",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

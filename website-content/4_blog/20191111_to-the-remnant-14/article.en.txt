@@ -1,0 +1,56 @@
+Title: To The Remnant #14
+
+----
+
+Date: 2019-11-11 12:00
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #14. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Revelations Effect: The Remnant : Signs of The times.<br>We know from The Words of Christ, that the the hour is nigh.<br>We feel it in our spirit, and in our steps, This world is not how it seems, or how it was. <br>A mystery to many, but now not to us.<br>We were told the hearts of men would grow cold.<br>As in the days of Noah, many do not see the hour, or the lion seeking to devour.<br>Yet still we must continue praying for those who are unaware, planting seeds of truth.<br>For we do not want the day to come upon them like a thief, and a snare.",
+        "id": "_geq74el8p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We see these lying signs and wonders. By His Grace alone.<br>For His Kingdom is our true home. <br>Let us continue in faith and pray we may finish the race.<br>By His Mercy and Grace, were our Hope abides.<br>Enduring until the end. For He alone is our Salvation. <br>For He is the Truth, and The Way to Everlasting Life. He is The Light of the World.<br>If He The Creator of all life. If He is with us, who than can stand against us?",
+        "id": "_dmPHqhI2B",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

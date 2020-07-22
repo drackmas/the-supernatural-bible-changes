@@ -1,0 +1,50 @@
+Title: To The Remnant #16
+
+----
+
+Date: 2019-11-18 12:05
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: To The Remnant #16. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Remnant Our Shepard. <br>The Heavenly Father Loves with a perfect love, one that surpasses all understanding. He is The Good Shepard. He does not every leave His sheep, even when we may feel afar of He is always there. Waiting for us to draw near to Him, as He than will draw nearer unto us. His Love is never ending, His Mercy can always be found. He is our foundation and our Rock, where all Hope is found. He so Loved the world that He gave His only begotten Son, The Lamb who was slain, Holy Holy is His Name above all Names. Whom Son sets free is free indeed, for He is the King of Kings.",
+        "id": "_6s78h9xg1",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 
