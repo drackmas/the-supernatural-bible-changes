@@ -1,0 +1,242 @@
+Title: Jesus Freak Computer Geek - The Wolf And The Lamb
+
+----
+
+Date: 2020-07-26 04:25
+
+----
+
+Author:
+
+- mDnpicDB
+
+----
+
+Desc: Mandela Effect. Supernatural Bible Changes. The bible is supernaturally changing to create a new narrative, but is it for a future event or is this something spiritual? This is a view of if the bible is setting the stage for tribulations that are yet to come.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Lion laying down with the lamb is a picture of ultimate peace. The wolf dwelling with the lamb is the opposite picture.",
+        "id": "_0wegzjotw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Notice that it does not give the peaceful picture of the wolf and lamb resting together. Shepherds do not allow wolves to dwell with their sheep because they know the sheep will be eaten.",
+        "id": "_xla1z34jj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "But there is coming a time when our shepherds will not only condone the wolf dwelling with us but will proclaim the wolf to be God. But those that are awake will know that he is really the antichrist.",
+        "id": "_nvl4bczhw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "But those serving the wolf in sheep's clothing will be on the wrong side of\u2026",
+        "id": "_l2jejahha",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.<br>\u2013 Luke 19:27 KJV (Jesus NEVER said to slay anyone!)",
+        "id": "_7gnhlprl8",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "and will not understand.",
+        "id": "_0kzo1rhv6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.<br>1 Corinthians 15:2 KJV",
+        "id": "_vr5hsrik3",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.<br>\u2013 Luke 8:12 KJV (Feels off but don't know what exactly is wrong with this)",
+        "id": "_0acm7v7n4",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "And are the ones\u2026",
+        "id": "_aukn1sqgm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "And for this cause God shall send them strong delusion, that they should believe a lie:<br>2 Thessalonians 2:11 KJV (a strong delusion? strong delusions? The sentence structure is off and the KJV never had ':' punctuation in the text.)",
+        "id": "_99m06fd55",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "\u2026that are under the strong delusion because\u2026",
+        "id": "_ybpp487r7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.<br>\u2013 Revelations 22:19 KJV (Not sure if I remember holy city in this verse)",
+        "id": "_sxesh2riv",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "They won't believe that ink on paper in the bible can be changed and is not God's sacred Word that cannot be changed.",
+        "id": "_u0vjamiy7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "id": "blog/jesus-freak-computer-geek-the-wolf-and-the-lamb/wolf_lamb.jpg",
+            "ratio": 1.1933174224343674,
+            "caption": "Wolf in sheep's clothing",
+            "guid": "/pages/blog+jesus-freak-computer-geek-the-wolf-and-the-lamb/files/wolf_lamb.jpg"
+        },
+        "content": "",
+        "id": "_52mecez6h",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "id": "blog/jesus-freak-computer-geek-the-wolf-and-the-lamb/wolf_lamb1.jpg",
+            "ratio": 0.8185483870967742,
+            "caption": "Isaiah 11:6 now says that the \"wolf will dwell with the lamb\". We know this ALWAYS said the LION will lay down with the lamb. This verse has been supernaturally changed.",
+            "guid": "/pages/blog+jesus-freak-computer-geek-the-wolf-and-the-lamb/files/wolf_lamb1.jpg"
+        },
+        "content": "",
+        "id": "_sqnej16du",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "From the comments:",
+        "id": "_jrgmftypj",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Do not worry. We know the truth!",
+        "id": "_8zdjvs4os",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Amen to that sister \u2014- how can we know the truth? Because the Most High has written His Truth upon our hearts !!!!! Praise God in the highest !!!!",
+        "id": "_j5hi90kjb",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "It\u2019s hidden in my heart!!!",
+        "id": "_j2mcl0nf6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I started reading the Bible for the first time in August 2018. I purchased my own Bible in January 2019, and the very next day, I discovered the Bible changes. Divine intervention.",
+        "id": "_u4s7lr69e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The truth is wolf and lamb, that is now and always has been the scripture. Changed by 1,000's of reformational preachers who were paraphrasing and speaking words that rolled off of the tongue easily in a preaching. This is the only truth ans everything else is deception, regardless of what anyone chooses to believe or think of me, I will not be mis-led by the masses.",
+        "id": "_7zrf4ds77",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "wait I\u2019m confused- so you\u2019re saying it was never lion and lamb? I\u2019m not being snarky in asking this- I\u2019m genuinely asking because my elderly neighbor says it\u2019s always said wolf and lamb too but I asked her and I\u2019ll ask you the same- how would so many artists throughout the years choose to paint a depiction of a lion and lamb - sometimes with the scripture written on it too? I mean it\u2019s a lot of effort to not paint a wolf and lamb....",
+        "id": "_1bbdejeek",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "It was always Lion and Lamb.The amount of residue speaks for itself.",
+        "id": "_udlxwqm9h",
+        "type": "ul"
+    },
+    {
+        "attrs": [],
+        "content": "From clear back when I was child....it was always The lion and the lamb....",
+        "id": "_3oaac9isc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "my father in law - who is also my friend - and MY BROTHER IN CHRIST (is that maybe the most important part??? ) He says otherwise... y'all see how this works? BUT - He did notice the \"heavens\" of Genesis 1 changed to heaven - he could not understand why ---",
+        "id": "_j2h7djptq",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "My only disagreement is this is not a future event. Its an event already happening. The wolf takes a seat in the Holy place when the Church accepts his voice (in scripture) over the unction of the Holy Spirit who is warning the Church. This is also a form of blasphemy of the Holy Spirit. This is how the Holy Place becomes desolate. Whether or not an actual man rises up declaring himself as God doesn't necessarily have to happen prophetically because it is already happening in the Spirit.",
+        "id": "_xo6filtqj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "that\u2019s just one way to examine the meaning of all of this. You\u2019re right - but there\u2019s more. Much more.",
+        "id": "_0xuyd3320",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Rev 22 also implies one should memorize God's words by living them...not simply speaking them.",
+        "id": "_8ugffvfhg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Or reading them.",
+        "id": "_ic1fnkpq4",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Jesus is the word! Remember the hip saying in the 80\u2019s??? \u201cWord to the Mother\u201d.",
+        "id": "_6yzjc1rtc",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- wolf_lamb.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: Jesus Freak Computer Geek
+
+----
+
+Featured: 

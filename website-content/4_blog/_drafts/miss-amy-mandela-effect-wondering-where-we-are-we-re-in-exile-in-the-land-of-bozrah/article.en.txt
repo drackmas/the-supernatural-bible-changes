@@ -16,7 +16,58 @@ Desc: I have been shown the truth about why we are here, where we are, and when 
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Hey everyone. It's Miss Amy from ME Wonderland. You've been missing me? I don't know don't know if you've noticed I haven't been posting in awhile. There's a reason for that. I was in the middle of making videos for the Mandela Effect when suddenly I was shown why we were here. How we were here. Why we were here. If and when we were going home and how that would happen. I just didn't even know how to process it. I didn't know how to even begin to start to tell everyone. I couldn't believe that I was the only one that was privy to the information (The end time pilgrim website? Can agree it's thought provoking Miss Amy). I even came under some spiritual attacks. I shared those with a couple of the other channels\u2026creators of the channels that I'd have these nightmares every night about trying to talk to you guys. Someone would come up to me face to face and take their hand and cover my mouth and I couldn't talk and I would try to get my thoughts together during the day time and I couldn't and I would try to save my research material. All I could do is just bookmark it. I literally couldn't do anything but bookmark it. For weeks at a time I'd do this but nothing else.",
+        "id": "_3kw5hr1vj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "So finally\u2026just barely\u2026. I'm able to come to you and talk about this. I gathered my thoughts enough to share this with you. It's good news. It's very good news I want you to know that right off. It's just that\u2026I just have so much coming against me to tell you that it's like wading through really muddy water and trying to talk to you about it is like trying to talk through you through that water. I don't know how else to say it. There's so much coming against me trying to get back to you guys. I apologize but I really need your prayers right now and your understanding. You know how much I love you guys. I never dreamed in a million years that out of everyone that I was going to be shown something\u2026information that was so important that had to get out and that\u2026that it would be up to me to get it out. So please be praying for me so that I can get these videos out and just now just today I shared this with my husband if this tells you anything. I can barely get it out well enough just to tell him.",
+        "id": "_6lk7grra4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This is just going to be the preview to the other videos but I'm going to also show scripture references but I'm also going to lay it out so that you can see very clearly that basically\u2026and I've thought this all along\u2026basically evil forces have KIDNAPPED us. That we are an elect group of people that God really has His hands on and we're special to Him. Therefore we were chosen by the evil doers to be kidnapped and taken to this place. This place being this planet.",
+        "id": "_84x72td3r",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We're being held here\u2026but God knows where we are and He's actually utilizing this opportunity of having us here as a way to keep us fed, nourished, housed, and so forth while on planet earth which is now in a different timeline\u2026the minute we were taken the timelines are different now.",
+        "id": "_6an1jc2yn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "So we're on a different time schedule completely but on planet earth they are already in the six six six and everything ok so we are basically the people that would not have taken the mark of the beast. We wouldn't be eating. We wouldn't have any way of feeding ourselves, housing ourselves, or anything. So the Lord has used what the evil doers have done as a way to\u2026and make sure\u2026while we're here\u2026He's intervening and making sure that we are fed and nurtured and well taken care of here while everything is going on on planet earth.",
+        "id": "_y2wq2q3a5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Also, He is using this as a way because most of us also even though we are kinda the apple of His eye most of us are pretty worldly and we're spiritual and special but fun loving and kinda (goofy? lol JK Amy) just maybe not ready to be the bride. He's going to use this time for us and everything we're going through\u2026being kidnapped and being on this planet\u2026to use this time to prepare us for Him to come and get us. Break us out and rescue us from here on His way to earth for the second coming.",
+        "id": "_8qkwq2odp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We are the lesser sheepfold. We are the smaller sheepfold. He'll pick us up on His way in so we don't need to worry about that. He knows right where we're at and He will break us out and He'll get us on His way back. We'll be with Him as He goes\u2026comes on in to\u2026to earth for the second coming.",
+        "id": "_1xnjqrkrc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Everyone is talking about the Revelations woman that will be in the sky in September and everything. You know\u2026I'm going to be touching on all the scriptures in a later video and go in much further in depth detail but it talks about how the dragon will be after the woman\u2026the woman she has wings of an eagle and she flies of to her deliverance away from the draco the dragon and well that's us. That's us and we're given wings to fly off and it's basically when they kidnap us. We're flown to this place. This place does have a name. I'll go into this later and tell you the name later but\u2026no I'll go ahead and tell you know I 13:10",
+        "id": "_5g196cbe9",
+        "type": "paragraph"
+    }
+]
 
 ----
 
