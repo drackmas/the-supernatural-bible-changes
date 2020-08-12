@@ -1,0 +1,54 @@
+Title: To The Remnant #25
+
+----
+
+Date: 2019-12-25 12:25
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #25. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Let us go forward in freedom no longer held by the lies of our captivity. <br>For whom the Son of God sets free, is free indeed. <br>To die to the flesh, is to be born again, In Spirit and Truth.<br>No longer desiring what we once sought. <br>Rather, leaving behind the old man, and what was, to hope for the new.<br>Leaning not on our own understanding, but walking as children do. <br>In Faith knowing its only by Grace we are saved, as He took our place. <br>The Joy of the Lord is our Strength. <br>For He is the Author and finisher of our faith and where our Help comes from.<br>In Him you will find comfort and Rest.<br>So let us be anxious in nothing, but in everything prayer and supplication.<br>To our Father in Heaven Holy be Thy Name. <br>Thy Kingdom Come Thy Will be done. On Earth as it is in Heaven<br>His Words are without blemish, beautiful and True, never to be changed.For He is the same, today and forever, always to remain.",
+        "id": "_khxjHn8tI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For what has been lost, that has not already been found?<br>Sealed now, forever within our hearts. <br>Men were no created for a purpose such as this. <br>Returning again and again, to ink and pen to confirm salvation. <br>By faith, and not by sight Peter walked on water.<br>Keeping His eyes steadfast on Christ.<br>‘In all thy ways, acknowledge Him and He shall direct thy paths.'<br>We are not blind to the ways of the enemy. <br>Let us not return to our old captivity. <br>We know of the changing of seasons and times.<br>We were warned only a heathen looks for signs.<br>We having the Holy Spirit who dwells in us have The Truth.<br>The Truth is as a sword that separates good from evil, Light from dark. <br>We having the Truth in our heart abide in the Light and do not walk in darkness. <br>For He is the Way The Truth and the Life.<br>He creates each day, and stops the arrow by night. <br>Let us proclaim The Truth, for what other good is there to do? \" 'Behold I am coming quickly and my reward is with me, <br>to give to everyone according to there works it shall be.’",
+        "id": "_idlzvOcUo",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

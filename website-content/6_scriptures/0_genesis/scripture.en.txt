@@ -1,0 +1,131 @@
+Title: Genesis
+
+----
+
+Verses:
+
+- 
+  verse: Genesis 1:1
+  scripture: 'In the beginning God created the **heaven** and the earth.'
+  notes: 'In the beginning God created the **heavens** and the earth.'
+- 
+  verse: Genesis 1:2
+  scripture: 'And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God **moved upon** the face of the waters.'
+  notes: 'And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God **hovered over** the face of the waters.'
+- 
+  verse: Genesis 1:11
+  scripture: 'And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after **his** kind, whose seed is in itself, upon the earth: and it was so.'
+  notes: "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after **it's** kind, whose seed is in itself, upon the earth: and it was so."
+- 
+  verse: Genesis 1:21
+  scripture: 'And God created **great whales**, and every living **creature** that moveth, which the waters brought forth abundantly, after their kind, and every winged **fowl** after his kind: and God saw that it was good.'
+  notes: |
+    1. sea-creatures
+    2. God had different creations, but they were never called "creature".
+    3. Birds was in scripture, but they were never called "fowl". I'm uncertain if this was a insert within the verse though instead of re-worded.
+- 
+  verse: Genesis 1:28
+  scripture: 'And God blessed them, and God said unto them, Be fruitful, and multiply, and **replenish** the earth, and subdue it: and have dominion over the fish of the sea, and over the **fowl** of the air, and over every living thing that **moveth** upon the earth.'
+  notes: 'And God blessed them, and God said unto them, Be fruitful, and multiply, and **fill** the earth, and subdue it: and have dominion over the fish of the sea, and over the **birds** of the air, and over every living thing that **creepeth** upon the earth.'
+- 
+  verse: Genesis 2:4
+  scripture: 'These are the **generations** of the heavens and of the earth when they were created, in the day that the **LORD** God made the **earth and the heavens**,'
+  notes: '**This is** the **account** of the heavens and of the earth when they were created, in the day that **God** made the **heavens and the earth**.'
+- 
+  verse: Genesis 2:18
+  scripture: '**¶ And the LORD** God said, It is not good that the man should be alone; I will make him **an help meet** for him.'
+  notes: |
+    God said, It is not good that man should be alone. I will make for him a helpmate.
+    
+    Note: In my bible it has the paragraph symbol at the beginning but I do not see it in online-bibles. I don't remember Lord being here and never in all caps. Also the wording at the end is strange using "him" twice.
+- 
+  verse: Genesis 3:1
+  scripture: 'Now the serpant was more **subtil** than any **beast** of the field which the **LORD** God had made. And he said unto the woman, **Yea**, hath God said, Ye shall not eat of every tree of the garden?'
+  notes: |
+    Now the serpent was more subtle than any **beast** of the field which God had made. And he said unto the woman, hath God said thou shall not eat of every tree of the garden?
+    
+    Note: I'm really unsure of the wording for beast but I don't believe it to be accurate. "yea" should not be here at all.
+- 
+  verse: Genesis 3:15
+  scripture: 'And I will put enmity between thee and the woman, and between thy seed and her seed; it shall **bruise** thy head, and thou **shalt** bruise his heel.'
+  notes: 'And I will put enmity between thy seed and her seed. He shall **crush** thy head and thou **shall** bruise his heel.'
+- 
+  verse: Genesis 4:3
+  scripture: 'And in **process** of time it came to pass, that Cain brought of the fruit of the ground an offering unto the **LORD**.'
+  notes: 'And it came to pass in **the course** of time that Cain brought of the ground an offering unto the **Lord**.'
+- 
+  verse: Genesis 6:4
+  scripture: 'There were giants **in** the earth in those days: and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.'
+  notes: |
+    "on the earth" was changed to "in the earth".
+    
+    The wording is off for most of this verse. It looks like this verse is praising the nephilim.
+- 
+  verse: Genesis 6:5
+  scripture: '¶ And God saw that the wickedness of man was great **in** the earth, and that every imagination of the thoughts of his heart was only evil continually.'
+  notes: >
+    Paragraph symbol is in the paperback
+    version of the KJV. Also "on the earth"
+    was changed to "in the earth".
+- 
+  verse: Genesis 6:23
+  scripture: >
+    Discrepancies in OT scriptures PDF
+    mentioned in notes from Genesis 4:7 a
+    verse in 6:23 but this verse no longer
+    exists.
+  notes: |
+    Note from Genesis 7:4
+    substance!
+    also verse
+    6:23
+- 
+  verse: Genesis 7:4
+  scripture: 'For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living **substance** that I have made will I destroy from  off the face of the earth.'
+  notes: 'For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living **thing** that I have made will destroy from off the face of the earth.'
+- 
+  verse: Genesis 7:16
+  scripture: 'And they that went in, went in **male and female of all flesh**, as God had commanded him: and the **LORD shut him in**.'
+  notes: |
+    They went in two by two. There was no mention of flesh. At the end it should say something along the lines of the door being shut or sealed shut. "LORD" is a change and shouldn't be in scriptures at all if you see it in all caps. I wonder if it is the attempt to replace our Father with someone else, but they cannot wipe out the Word that we have hidden in our hearts.
+- 
+  verse: Genesis 8:1
+  scripture: 'And God remembered Noah, and every living thing, and all the **cattle** that **was** with him in the ark: and God made a wind to pass over the earth, and the waters **asswaged**.'
+  notes: |
+    And God remembered Noah, and every living, and all the animals that **were** with him in the ark: and God made a wind to pass over the earth, and the waters **subsided**.
+    
+    asswaged! cattle!
+- 
+  verse: Genesis 9:13
+  scripture: 'I do set my bow in the cloud, and it shall be for a **token** of a covenant between me and the earth.'
+  notes: 'I do set my bow in the cloud, and it shall be for a **sign** of a covenant between me and the earth.'
+- 
+  verse: Genesis 16:3
+  scripture: "And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram **to be his wife**."
+  notes: >
+    No! Abraham never married Hagar! That
+    would make Ishmael a legitimate heir.
+    She was a bond servant and always was
+    one!
+- 
+  verse: Genesis 16:11
+  scripture: 'And the angel of the **LORD** said unto her, **Behold**, thou art with child, and **shalt** bear a son, and **shalt** call his name Ishmael; because the Lord hath heard thy affliction.'
+  notes: |
+    I'm always questioning when I see "behold" in scriptures because it's been added so much. Also whenever you see GOD or in this verse LORD in all caps it's a giveaway that the verse has been altered. The original KJV never had either in all caps. I don't believe the word "shalt" was ever used either. It replaced "shall". Sentence structure errors.
+- 
+  verse: Genesis 16:12
+  scripture: "**And** he ***will*** be a wild man; **his hand** will be against every man, and every man's **hand** against him; and he shall dwell in the presence of all his brethren."
+  notes: "will" being in italics? His hand?
+- 
+  verse: Genesis 16:13
+  scripture: 'And she **called the** name of the **LORD** that **spake** unto her, Thou God **seest** me: for she said, Have I also here looked after him that **seeth** me?'
+  notes: |
+    And she called **on** the name of the **Lord** that **spoke** unto her, The God who **seest** me: for she said, Have I also looked here after him that **seeth** me?
+    
+    Have to note that "seest" and "seeth" looks strange.
+- 
+  verse: Genesis 19:22
+  scripture: >
+    Haste thee, escape thither; for I cannot
+    do any thing
+  notes: ""

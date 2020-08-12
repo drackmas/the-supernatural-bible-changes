@@ -1,0 +1,90 @@
+Title: To The Remnant #11
+
+----
+
+Date: 2019-11-07 11:50
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #11. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Revelations Effect. <br>{ 1.5.} The Remnant",
+        "id": "_OgQ8hDZn3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What is it then, for the hearts of all who seek.<br>Yet do not seem to find, let them knock I pray before the final time. <br>What can the righteous do in this hour, when such evil as this has sought to devour?<br>What can one do against thousands, what can one do against a flood of lies?",
+        "id": "_ebLXPkdO9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Is the flesh not weak, are bodies not frail?<br>Is the flesh not weak, can bones not break? <br>Yet For His name Sake, He always will Prevail.<br>Let us be filled with the Holy Spirit.",
+        "id": "_LjvVJpz4F",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We having The Truth, knowing the Victory<br>of the Cross, that was given at such a great cost. <br>In the Midst of these trials and tribulations.<br>His Heavenly Mercy beautiful and True,<br>With outstretched arms reaches for you.",
+        "id": "_Y4SKMQ538",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<br>For He so loved us first.<br>Even before the foundations of the earth.<br>The Truth given by the Spirit.<br>His Word Shall never pass away, it is our daily bread. <br>By His Spirit we are fed. He is the Word.<br>We need no pages, inks, or pens.<br>For He is The Almighty, The Alpha Omega, The Beginning and the End.",
+        "id": "_obf58SEWZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The prayer of one who is righteousness availeth much.<br>Let us than seek to be Righteous, as He is Righteous and True.<br>For in Him, there is Absolute Freedom, His Word Prevails.<br>Even in the famine that is here. <br>No cry is to soft, no prayer to small, that He does not hear.",
+        "id": "_ctBeU8E1b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "No evil too great, no scheme too grand.<br>Can remove us from His Holy Hands.<br>He carries the World upon His shoulders.<br>He is The Rock on which we stand.",
+        "id": "_ex3A53jEq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "His thoughts for His Children outnumber the grains of sand.<br>Can any darkness, or valley of shadow.<br>Defeat Light of The World? Surely It cannot. <br>For the Victory is His alone.<br>No flesh or blood, no power or principalities, no evil from above, or below.<br>Will remove Him from The Heavenly Throne.<br>By Grace we Stand <br>Never to be removed from His Holy Hands.",
+        "id": "_YE2m4Rmk0",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

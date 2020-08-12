@@ -1,0 +1,138 @@
+Title: Know Jesus!
+
+----
+
+Date: 2020-07-23 00:55
+
+----
+
+Author: 
+
+----
+
+Desc: Do you know we were placed on this earth to decide if we want to have a personal relationship with Jesus and our Father in Heaven? We were all made from His love for us and He wants to have a personal relationship with each and every one of us! Do you want to know Jesus? Read on to learn more.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "DO YOU WANT TO KNOW JESUS?",
+        "id": "_z3hdyykn0",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "God loves us and wants to have a personal relationship with us but sin separates us from that relationship. In the New Testament portion of the Bible, the book of Romans 3:23(NKJV) tells us “for all have sinned and fall short of the glory of God” and this means we are separated from Christ. Without salvation offered through Jesus, we are held accountable and punishable for our sins.",
+        "id": "_6xy5zj6wn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Knowing Jesus is a full result of salvation and sanctification. The Bible tells us in 1 John 1:9 (NKJV) that “If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.” This is true repentance.",
+        "id": "_pc47wxx08",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Blessed is the man who walks not in the counsel of the ungodly, nor stands in the path of sinners, nor sits in the seat of the scornful; But his delight is in the law of the Lord, and in His law he meditates day and night. He shall be like a tree planted by the rivers of water, that brings forth its fruit in its season, whose leaf also shall not wither; and whatever he does shall prosper. The ungodly are not so, but are like the chaff which the wind drives away. Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous. For the Lord knows the way of the righteous, but the way of the ungodly shall perish.<br>Psalms 1:1-6",
+        "id": "_hitqj6ovk",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "When we accept Jesus Christ as our Savior, we receive justification for our sins, which means He recognizes us as a follower of Him and we begin our spiritual journey with Him.",
+        "id": "_modrd8slm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ, through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God. And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope. Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us. For when we were still without strength, in due time Christ died for the ungodly.<br>Romans 5:1-6 NKJV",
+        "id": "_j25gkcu6r",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us.<br>Romans 5:8 NKJV",
+        "id": "_3pmyqo4ia",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast.<br>Ephesians 2:8-9 NKJV",
+        "id": "_jb5x2l5nb",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.<br>Romans 6:23 NKJV",
+        "id": "_nux8rmayh",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "that if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.<br>Romans 10:9-10 NKJV",
+        "id": "_48ip1vfdn",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "If you are ready to accept the gift of eternal life through Jesus, and you truly desire to ask Him into your heart to be your personal Lord and Savior, then pray this prayer:",
+        "id": "_sd726i0jm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"Father, I know that I have broken your laws and my sins have separated me from you. I am truly sorry, and now I want to turn away from my past sinful life toward you. Please forgive me, and help me avoid sinning again. I believe that your Son, Jesus Christ died for my sins, was resurrected from the dead, is alive, and hears my prayer. I invite Jesus to become my Savior and Lord of my life, to rule and reign in my heart from this day forward. Please send your Holy Spirit to help me obey You, and to do Your will for the rest of my life. In Jesus' name I pray, Amen.\"",
+        "id": "_4c8gdbh5y",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "If you have just prayed this prayer and accepted Christ, we would like to know so that we can celebrate with you! If you have questions or concerns, please contact one of the moderators or staff members who will celebrate and encourage you in your walk with the Lord! Keep in mind however that it takes true humility to believe those words you just prayed so you have to allow God to lead you everyday allowing good fruit to come forth in your life. You wont get it perfect everyday, but it is critical to recognize that you are now a new creation in Christ Jesus and that you need to let Him convict you and transform you daily.",
+        "id": "_wkv0l6tlo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "While there are great people here on this board to help you with your walk, we encourage you to find a community of believers locally where you feel at home and mature believers can help guide you and hold you accountable to your decision to follow Jesus.",
+        "id": "_q7l8pv3x0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+know-jesus/files/fathers_love_letter.jpg",
+            "id": "blog/know-jesus/fathers_love_letter.jpg",
+            "ratio": 1.4150943396226414,
+            "caption": "Father's Love Letter",
+            "filename": "fathers_love_letter.jpg"
+        },
+        "content": "",
+        "id": "_yyyoz72vp",
+        "type": "image"
+    }
+]
+
+----
+
+Cover:
+
+- bird-4062359_960_720.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: Jesus Christ
+
+----
+
+Featured: 

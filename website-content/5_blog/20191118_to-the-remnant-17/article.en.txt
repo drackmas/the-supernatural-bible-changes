@@ -1,0 +1,60 @@
+Title: To The Remnant #17
+
+----
+
+Date: 2019-11-18 12:10
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #17. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Revelations Effect: The Remanent: Tribulation as there never was and nor will be.",
+        "id": "_Y2XYCHZfK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The future and time isn’t what it used to be, only what the Heavenly Father said it would be.<br>The hour is dark, yet the day is still good, for He creates each day. Is not darkness just the absence of light? He makes all things good for He is Good. <br>Do not think it is a strange thing to fall upon you when evil seeks to do evil.<br>For evil seeks whom he may devour, the darkness fears the light. Just as lies hate The Truth. For the Truth sets us free. Let us than leave behind the chains of our old captivity. Going forward in freedom, knowing He is Truth, the Light, and the Way, <br>He is our Salvation and everlasting Life. We will know them by there fruits. <br>So let us than continue to seek to do good as He Is Good. Not returning hate for hate, or anger for strife. Rather walking and being ambassadors of the Light. For He is The Light of the world. Whom dwells in us.",
+        "id": "_DJlxoUTHT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For we know the time is at hand.<br>He is the Foundation, not built of sand, but of The Rock on which we stand, <br>our Solid Ground. Where All Hope is Found.<br>We are weak, and He is Strong.<br>Let us never forget it is unto Him we belong.",
+        "id": "_takGDq3Ua",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

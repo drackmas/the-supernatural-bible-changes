@@ -1,0 +1,13 @@
+Title: Hosea
+
+----
+
+Verses:
+
+- 
+  verse: Hosea 4:6
+  scripture: 'My people are **destroyed** for lack of knowledge: because thou **hast** rejected knowledge, I will also reject thee, that thou **shalt be no priest to me**; seeing thou hast forgotten the **law of they God**, I will also forget thy children.'
+  notes: |
+    My people perish for lack of knowledge. "hast" vs "hath". I don't think priest should be there at all.
+    
+    The law of God and it's variations promote the Hebrew Roots Movement.

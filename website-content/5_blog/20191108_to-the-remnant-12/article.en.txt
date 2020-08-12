@@ -1,0 +1,60 @@
+Title: To The Remnant #12
+
+----
+
+Date: 2019-11-08 11:50
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #12. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Revelations Effect: The Remnant : The Word verses the bible. <br>The Bible. a book Inspired by Holy Spirit. <br>True accounts witnessed, and written down by men, later translated by more men.<br>A bible is not something we were ever promised to always have. <br>Many have found the Creator without the bible in times past. <br>People stored up bibles for such a time as this, fearing they could be taken or destroyed. <br>What we didn't realize was that the thief was already in our midst’s.",
+        "id": "_fiiZ1v35n",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The Word of God, is not a book,<br>The Word of God created and brought fourth All Life. <br>His Word, brought day, and night.<br>From The Beginning... <br>For He is The Beginning and The End.. <br>The Word of God is without blemish, Beautiful and True, never to be changed.<br>For He is the same today and forever, always to remain.<br>For the Word Is Christ, The Lamb who was slain.<br>Holy Holy Is His Name, Name above All names <br>His Word shall never to fail, it shall never to depart. <br>Let us remember He has sealed His Word in our Hearts..",
+        "id": "_G6OWh05Sm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The bible maybe taken away, however, The Word shall forever stay.",
+        "id": "_67NW7MLHX",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

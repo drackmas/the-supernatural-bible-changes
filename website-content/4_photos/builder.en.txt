@@ -1,0 +1,73 @@
+Title: Photos
+
+----
+
+Headersection: true
+
+----
+
+Header:
+
+- photographer-16022_1920.jpg
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Animation: true
+
+----
+
+Modules:
+
+- 
+  columns:
+    - 
+      columnwidth: uk-width-1-2@m
+      columncontenthtml: ""
+      columncontent: '(image: angry-2766265_1920.jpg link: photos/memes width: 500 height: 300)'
+      columnhtml: ""
+    - 
+      columnwidth: uk-width-1-2@m
+      columncontenthtml: ""
+      columncontent: |
+        Here is our collection of Bible Changes Memes that you can share to try to spread the message of the times we are in. Most times you won't get the time to discuss your points before you are shut out of the discussion. These Memes may help to show people that our scriptures aren't the same today as they were years ago. They have all been supernaturally changed!
+        
+        (link: photos/memes text: The Supernatural Bible Changes Memes class: uk-button uk-button-primary)
+      columnhtml: ""
+  title: ""
+  blockclass: ""
+  sectionsize: ' uk-section-large'
+  sectioncolor: ' uk-section-default'
+  sectionremovepadding: ""
+  gridwidth: ""
+  columnstack: tablet
+  columngap: ""
+  columnsparallax: 'false'
+  columnsdivider: 'false'
+  centertext: 'false'
+  gridheadings: 'false'
+  _key: grid
+  _uid: grid_1592091364976_632
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 

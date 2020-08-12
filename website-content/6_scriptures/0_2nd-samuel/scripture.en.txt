@@ -1,0 +1,10 @@
+Title: 2nd Samuel
+
+----
+
+Verses:
+
+- 
+  verse: 2nd Samuel 6:5
+  scripture: 'And David and all the house of Israel played before the Lord on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on **cornets**, and on cymbals.'
+  notes: "Cornets weren't invented yet. Also were there any tambourines? Tambourine is no longer in the KJV."

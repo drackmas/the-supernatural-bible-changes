@@ -1,0 +1,66 @@
+Title: To The Remnant #36
+
+----
+
+Date: 2020-02-23 23:20
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #36. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "To The Remnant <br>Who will defend His Words, and The Truth?<br>In a world that is drunk on lies.<br>Let us be sober and vigilant <br>For there is darkness masquerading as light.<br>Though we are given sight.",
+        "id": "_NAiuqQJiD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Who will defend The Truth, and His statutes?<br>To be bold as lion, to be gentle as a lamb.<br>For He is “I Am who I am””<br>For there is no other, nor will there ever be.<br>For He is the King of Kings.<br>His Majesty who sits on the Heavenly Throne.<br>We cannot live by bread alone.<br>This world is not our home.<br>We are in it, but not of it. <br>Separated as day is from night.<br>Shining as stars so bright.<br>For the sword is The Truth that comes to divide.<br>Separating Truth from lies.<br>His Mercy, is as running waters, in deserts so dry.",
+        "id": "_kGjfqFO7h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For there is nothing in this world that can satisfy.<br>Those who thirst, let them thirst no more.<br>He is coming quickly, His Judgement, and reward is near even at the doors.<br>As a threshing floor.<br>The wheat and the chaff.<br>The first shall be last.<br>The last shall be first.<br>For the meek shall inherit the earth.",
+        "id": "_a0yQGtnwA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "He is Faithful Righteous and True. <br>Let His Truth be a comfort to you. <br>His Words are without blemish, perfect in every way.<br>For there is no other Name that is Mighty to save.<br>Let us, His Children proclaim.<br>Holy Holy is the Lamb that was slain. The One who was, and is to come.",
+        "id": "_Wq27U0mQd",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

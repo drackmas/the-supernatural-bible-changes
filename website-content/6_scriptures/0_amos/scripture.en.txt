@@ -1,0 +1,22 @@
+Title: Amos
+
+----
+
+Verses:
+
+- 
+  verse: Amos 8:2
+  scripture: 'And he said, Amos, what **seest** thou? And I said, a basket of summer fruit. Then said the **LORD** unto me, The end **is** come upon my people of Israel; I will not again pass by them **any more**.'
+  notes: 'And he said, Amos, what **seest** (was that used here?) thou? And I said, a basket of summer fruit. Then said the **Lord** unto me, The time **has/hath** come upon my people of Israel; I will not again pass by them **anymore**.'
+- 
+  verse: Amos 8:9
+  scripture: 'And it shall come to pass in that day, **saith** the Lord **GOD**, that I will cause the sun to go down at noon, and I will darken the earth in the clear day:'
+  notes: 'And it shall come to pass in that day, **sayeth** the Lord, that I will cause the sun to go down at noon, and I will darken the earth in the clear day:'
+- 
+  verse: Amos 8:11
+  scripture: '**Behold**, the days **come**, **saith** the Lord **GOD**, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the **LORD**:'
+  notes: 'The days **cometh**, **sayeth** the Lord, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the **Lord**.'
+- 
+  verse: Amos 8:12
+  scripture: 'And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the **word** of the **LORD**, and shall not find it.'
+  notes: 'And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the **word** (words?) of the **Lord**, and shall not find it.'

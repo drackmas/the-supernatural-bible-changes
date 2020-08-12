@@ -1,0 +1,72 @@
+Title: To The Remnant #2
+
+----
+
+Date: 2019-10-16 11:25
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #2. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Revelation's Effect.",
+        "id": "_5a040Co1E",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "To The Remnant",
+        "id": "_LYBOol3VC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Let us now go forward, continually proclaiming the Victory of the Cross.<br>The One who died , and who was given at great cost.<br>We are no longer lost, for we have been found.<br>He alone is our solid ground, Forever Unchanged.<br>There is all Authority in His Name.<br>Alpha Omega, Beginning and End. <br>Savoir, and Friend.",
+        "id": "_nXR0XW35f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Let us remember, The Lamb who was slain, The One who has Risen.<br>Let us proclaim the Victory of Christ’s Name.<br>He Heals the Sick, He Binds the broken.<br>Let us not forget The Word that has been spoken.<br>His blood shed, we are given life.<br>Let us not forget the price, what was paid, <br>By the Only One who Saves.",
+        "id": "_8R3RoKeUi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "To be Born again. In Spirit, and in The Truth.<br>Power, Love, and Sound Mind. <br>The Holy Spirit is what we need in this time.<br><br>The Lord is with you, as He was even in your Youth.<br>The Shepard, whom gentle Leads, and guides.<br>We need no other by our side.<br>Gentle, AllMighty and True. <br>Our Strong Tower, Always Faithful, and Full of Love. <br>His Spirit Gentle as a Dove.",
+        "id": "_OmeBfDtCe",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

@@ -1,0 +1,15 @@
+Title: 1st Corinthians
+
+----
+
+Verses:
+
+- 
+  verse: 1st Corinthians 13:13
+  scripture: 'And now abideth faith, hope, **charity**, these three; but the greatest of these is **charity**.'
+  notes: >
+    Is it Faith hope and charity...or is it
+    Faith hope and love? I can give to
+    charity to make myself look better. I
+    could also do so to get tax breaks. This
+    verse always said LOVE!

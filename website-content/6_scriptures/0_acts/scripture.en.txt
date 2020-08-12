@@ -1,0 +1,17 @@
+Title: Acts
+
+----
+
+Verses:
+
+- 
+  verse: Acts 8:9
+  scripture: 'But there was a certain man, called Simon, which **beforetime** in the same city used sorcery, and bewitched the people of **Sa-mar-i-a**, giving out that himself was some great one:'
+  notes: "But there was a certain man, called Simon, which **before time(still doesn't sound right)** in the same city used sorcery, and bewitched the people of **Samaria**, giving out that himself was some great one (wording here looks strange as well):"
+- 
+  verse: Acts 8:10
+  scripture: >
+    To whom they all gave heed, from the
+    least to the greatest, saying, This man
+    is the great power of God.
+  notes: ?

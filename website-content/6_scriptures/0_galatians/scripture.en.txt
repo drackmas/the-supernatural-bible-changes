@@ -1,0 +1,51 @@
+Title: Galatians
+
+----
+
+Verses:
+
+- 
+  verse: Galatians 4:22
+  scripture: 'For it is written, that Abraham had two sons, the one by a **bondmaid**, the other by a **freewoman**.'
+  notes: |
+    I'm not sure about the term "bondmaid" but it definitely shouldn't be one word. I still think this should say bond servant. I also don't know about the word "freewoman" but that shouldn't be one word either.
+- 
+  verse: Galatians 4:23
+  scripture: 'But he *who* was of the **bondwoman** was born after the flesh; but he of the **freewoman** was by promise.'
+  notes: |
+    I'm not sure about the term "bondwoman" but it definitely shouldn't be one word. I still think this should say bond servant. The semi-colon is a giveaway that the verse has been altered. I also don't know about the word "freewoman" but that shouldn't be one word either.
+- 
+  verse: Galatians 4:25
+  scripture: 'For this Agar is mount Sinai in **Arabia**, and answereth to Jerusalem which now is, and is in bondage with her children.'
+  notes: "Was Arabia added to the KJV? I'm not sure. What I do know is that the sentence structure is messed up with the three commas."
+- 
+  verse: Galatians 4:26
+  scripture: 'But Jerusalem **which is above** is free, which is the **mother of us all**.'
+  notes: "Which is above? Mother of us all? I don't know this verse enough to say for certain how this is supposed to be worded."
+- 
+  verse: Galatians 4:27
+  scripture: '**For it is written**, Rejoice, thou **barren that bearest** not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath **an husband**.'
+  notes: |
+    Whenever I see "for it is written" I always have to wonder if this was there because it has been added so much throughout scriptures. Bearest?
+    An husband?
+    Note the colon and simi-colon.
+- 
+  verse: Galatians 4:28
+  scripture: >
+    Now we, brethren, as Isaac was, are the
+    children of promise.
+  notes: Grammar structure error.
+- 
+  verse: Galatians 4:30
+  scripture: 'Nevertheless what **saith** the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.'
+  notes: |
+    "saith wasn't in the KJV. This used to be "sayeth". Note the colon. Bondwoman I think should be bond servant.
+- 
+  verse: Galatians 4:31
+  scripture: 'So then, brethren, we are not the children of the **bondwoman**, but of the free.'
+  notes: "The term bondwoman is being used. I don't think that was used in the KJV. I think Bond Servant was used though."
+- 
+  verse: Galatians 5:1
+  scripture: 'Stand fast therefore in the liberty **wherewith** Christ hath made us free, and be not entangled again with the yoke of bondage.'
+  notes: |
+    "wherewith" isn't a word.

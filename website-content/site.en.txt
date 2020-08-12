@@ -12,7 +12,7 @@ Twitteruser: @bible_changes
 
 Logo:
 
-- tsbc-logo.png
+- fire.png
 
 ----
 
@@ -61,7 +61,7 @@ Languagenav: false
 
 ----
 
-Searchicon: true
+Searchicon: false
 
 ----
 
@@ -195,7 +195,7 @@ Footercompacttext:
 [
     {
         "attrs": [],
-        "content": "Let\u2019s create something together",
+        "content": "Let’s create something together",
         "id": "_9e5dzy48s",
         "type": "h2"
     },
@@ -426,3 +426,55 @@ Favicon16:
 ----
 
 Msicon: 
+
+----
+
+Stylingswitcher: 
+
+----
+
+Sitebuttonstyle: 
+
+----
+
+Sitebuttonborder: 
+
+----
+
+Fonturl: 
+
+----
+
+Textfontfamily: 
+
+----
+
+Headingfontfamily: 
+
+----
+
+Headingfontweight: 
+
+----
+
+Secondaryfontfamily: 
+
+----
+
+Secondaryfontweight: 
+
+----
+
+Secondaryfontstyle: 
+
+----
+
+Headcustomcode: 
+
+----
+
+Bodycustomcode: 
+
+----
+
+Footercustomcode: 

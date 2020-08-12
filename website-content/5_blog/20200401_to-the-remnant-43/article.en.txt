@@ -1,0 +1,72 @@
+Title: To The Remnant #43
+
+----
+
+Date: 2020-04-01 23:30
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #43. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "-——————-<br>27 - 1.4 <br>——————-<br>In times of trouble what can one say,<br>In times of famine what can we give?<br>In a season of weariness how can we belong?<br>Who can be our strong arm?",
+        "id": "_yNuEvsL12",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In a world that is upside down.<br>When what is good is said to be bad.",
+        "id": "_Zg0bbCmzy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "When the Truth is forfeit for a lie.<br>How can we eat and be satisfied?",
+        "id": "_PxJQyCci9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In a flood and a shake, the earth will shiver in place.<br>Though the people of the earth will be moved.<br>What will you do?<br>Yet we must be as a Rock.<br>Casting our burdens on Him.<br>Knowing He forgives those who repent.",
+        "id": "_OWtM0SB7b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The shaking and cracking of the earth, for as a women in travail, the birth pains a sign.<br>It is no mystery to those who see, what is the time.<br>For Behold He is coming quickly, do no grow weary in doing good,<br>For He is Good and worthy to be praised.<br>He prepared a table for David in the presence of his enemies.<br>He prepared 2 feasts for Ester in times of peril.<br>He saved the Israelites from Pharaoh. <br>If He can part the sea, can He not see all there is to see?<br>He knows the trials of the day, and the tribulations that come by night.<br>He sees even the sparrow. for none are hidden from His Sight, <br>He is Mighty to Save, those who call upon His Name.",
+        "id": "_e2zxsyTOs",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

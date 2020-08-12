@@ -1,0 +1,54 @@
+Title: To The Remnant #44
+
+----
+
+Date: 2020-04-07 23:35
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #44. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "-——<br>27-4-9<br>——<br>This is the week of the Last supper, this is the week the disciples fell asleep when the King of Kings needed them most, and this is the week judas betrayed whom he called friend.<br>Christ falsely accused in the high courts. This is the week He was crucified and rose from the dead. This is the week we were given salvation from our sin. This is the week we repent and seek Him.<br>This is the weak the blood of the Lamb was placed on the door steps of the Israelites sparing them from the plague of death that was coming in the darkness of night. Let us depart from ways of egypt. Remembering who we belong to, covering ourselves with the shield of Truth.",
+        "id": "_GTOiEJKH0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For the terror that tries by day, and the arrows that fall by night, will not come near those who cover themselves with the Truth. For the Truth is your Shield and Refuge, The Truth is what sets free, for what can prevail against thee?<br>Even if 3 days of darkness that shall come, He is the Light of the world were all help comes from. <br>Though many will be in terror and flee, He who holds steadfast will see. <br>Even when the sun dims its light, remember He who gave the stars their light.<br>When the earth rolls and shakes, remember He who put them in there place. <br>Yet pray for those with eyes that cannot see, already stumbling in the dark, pray for Salvation to come to their hearts.<br>Can not the owls see in the dark and from all sides?<br>What then is hidden from Christ. For even if 3 days the sun is hidden from sight. Remember He is the Truth and The Light. All His Children are precious in His sight.",
+        "id": "_2a7ehVmo0",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

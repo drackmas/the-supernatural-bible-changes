@@ -1,0 +1,525 @@
+Title: Bible Changes Community - The Destroyer
+
+----
+
+Date: 2018-11-16 09:10
+
+----
+
+Author: 
+
+----
+
+Desc: Mandela Effect Bible Changes. Bibles are changing supernaturally. Even dusty bibles on dusty shelves. Think back to when Moses went to the Pharaoh to ask him to let God's people go. Do you remember when everyone's first born sons were killed? Do you remember the destroyer doing the deed? I don't.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "I was reading Corinthians today and came upon an unfamiliar word: Destroyer",
+        "id": "_6u08tmb8d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I know this word only in the context of the Hindu god Shiva \"the destroyer of worlds\". It could be simply me being unfamiliar with this verse but if not I think it's interesting that \"the destroyer\" statue went up in CERN in 2004. Does anyone remember the word \"destroyer\" being in the KJV Bible? Does anyone else remember the angel of death? Isn't that why Israel celebrates Passover? The angel of death passed over the houses that marked their doors with lamb's blood.",
+        "id": "_top0kayiq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For the Lord will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the Lord will pass over the door, and will not suffer the <strong>destroyer</strong> to come in unto your houses to smite you.<br>Exodus 12:23 KJV",
+        "id": "_dntc6rbah",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "And when the people saw him, they praised their god: for they said, Our god hath delivered into our hands our enemy, and the <strong>destroyer</strong> of our country, which slew many of us.<br>Judges 16:24 KJV",
+        "id": "_lhlaofwda",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "A dreadful sound is in his ears: in prosperity the <strong>destroyer</strong> shall come upon him.<br>Job 15:21 KJV",
+        "id": "_ofi59sll0",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the <strong>destroyer</strong>.<br>Psalm(s) 17:4",
+        "id": "_mttn75kid",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a <strong>destroyer</strong>.<br>Proverbs 28:24 KJV",
+        "id": "_641zd1id9",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "The lion is come up from his thicket, and the <strong>destroyer</strong> of the Gentiles is on his way; he is gone forth from his place to make thy land desolate; and thy cities shall be laid waste, without an inhabitant.<br>Jeremiah 4:7 KJV",
+        "id": "_sez5213yh",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Neither murmur ye, as some of them also murmured, and were destroyed of the <strong>destroyer</strong>.<br>1 Corinthians 10:10 KJV",
+        "id": "_wagj695e7",
+        "type": "blockquote"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+bible-changes-community-the-destroyer/files/destroyer1.jpg",
+            "id": "blog/bible-changes-community-the-destroyer/destroyer1.jpg",
+            "ratio": 1.7777777777777777,
+            "caption": "Is this \"the destroyer\" in scriptures now?",
+            "filename": "destroyer1.jpg"
+        },
+        "content": "",
+        "id": "_rpcfl8oa0",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+bible-changes-community-the-destroyer/files/destroyer2.jpg",
+            "id": "blog/bible-changes-community-the-destroyer/destroyer2.jpg",
+            "ratio": 1.7777777777777777,
+            "caption": "Possibly what is causing the changes. Note that CERN has the Shiva statue on site.",
+            "filename": "destroyer2.jpg"
+        },
+        "content": "",
+        "id": "_pn7clnorg",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+bible-changes-community-the-destroyer/files/destroyer-3.jpg",
+            "id": "blog/bible-changes-community-the-destroyer/destroyer-3.jpg",
+            "ratio": 0.75,
+            "caption": "No search results found for \"Angel of death\"",
+            "filename": "destroyer-3.jpg"
+        },
+        "content": "",
+        "id": "_0aslwwco8",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+bible-changes-community-the-destroyer/files/destroyer-4.jpg",
+            "id": "blog/bible-changes-community-the-destroyer/destroyer-4.jpg",
+            "ratio": 0.5625,
+            "caption": "Angel of Death can still be found in some scripture versions though.",
+            "filename": "destroyer-4.jpg"
+        },
+        "content": "",
+        "id": "_lxexblw29",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "From the comments:",
+        "id": "_lalwbxhw3",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "D WAVE. A high tech Ouija board.",
+        "id": "_j1if3628q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I knew I had heard this before about Allah. This may be the video I saw a few years before. \"Allah has 99 names, one is the Destroyer, which Bible Prophecy names as the...\" <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgYQaswsbi5s%26fbclid%3DIwAR2K7dIVTuOvvHBkcNvXtiTiWh1LEW-UfA0cfLi6XtrjF1mnqo9FoM0IBp8&amp;h=AT1jK3ESzMhHhtdUXRRgoUoSD1eCG1ZgNHFvZQF15vUqrZ_ZQG0mQhBocbL-AuITjAP7b1uEHRmax8R6O8lbEggA1E0ySmrU1MJvaqwIoTRXt742z_7wTyMZug&amp;__tn__=R]-R&amp;c[0]=AT1ci2SS_yCaWglrqiEl_fA08vV5jWOtoyj_XPb-rLWTuUrky1Nnc7TTZg-gg-jlETcHU2eQWGFbc92THKp0VJ2tiWr9f5TZHLUSSHmIl377AQfbDlKG3hsZwJuo8a4eApPA1oMvPocv1avY-oW55QmeDdF1dcH0lAt0bym8DYCqYCJ0gLMsnYYFom_nCTGOnPp8EDHYVWZI2A\">https://www.youtube.com/watch?v=gYQaswsbi5</a>",
+        "id": "_50zb17azc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wow! That aligns with the theme of Chrislam in some other changes.",
+        "id": "_2znyab9mi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Shiva is apollyon is apolo who is etc",
+        "id": "_dnjg8ujqn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I could have sworn that I remember Shiva having 4 to 6 arms. Anybody else Remember that?",
+        "id": "_rp4o6330v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "She did have more &amp; I believe it was 6. That is a mandela effect.",
+        "id": "_euid5jeke",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "The statue has 4 arms but it's interesting that Obama had a picture taken in the same pose with 6 arms. I don't know if 4 or 6 is right.",
+        "id": "_xxbwuy78j",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0,
+            "guid": "/pages/blog+bible-changes-community-the-destroyer/files/goat.jpg",
+            "id": "blog/bible-changes-community-the-destroyer/goat.jpg",
+            "ratio": 1.3333333333333333,
+            "caption": "",
+            "filename": "goat.jpg"
+        },
+        "content": "",
+        "id": "_gn17o5yfq",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Here's one with 6 arms. I don't know why there is variation.",
+        "id": "_avfqpqo1g",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+bible-changes-community-the-destroyer/files/goat1.jpg",
+            "id": "blog/bible-changes-community-the-destroyer/goat1.jpg",
+            "ratio": 1.5988372093023255,
+            "caption": "",
+            "filename": "goat1.jpg"
+        },
+        "content": "",
+        "id": "_j6na0bct2",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Shiva is not a female but I do remember him having three arms on each side.",
+        "id": "_x92s3vkx5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It is probably androgynous, male/female just like the baphomet is, so both would be correct. This is what satan wants, to destroy God's male &amp; female that He created. That He created &amp; said was good!",
+        "id": "_8q0g526zw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Just going by what I've read that he is a male and I believe his brother's name is Vishnu.. Shiva destroys Vishnu creates.",
+        "id": "_s9ty4mszx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Never heard of Vishnu. I guess it doesn't really matter what that Shiva thing is, it is just good that we know it is evil. We are paying attention because God opened our eyes! He has blessed us w/ eyes that see!",
+        "id": "_8r2h3b25p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "They're just Hindu gods, Vishnu and Shiva are the main ones. The very same Gods that you're praying to when you perform yoga , yoga positions are prayers to Hindu gods.",
+        "id": "_a2y45o2tt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Christians should never do yoga, if Christians are interested in stretching their body they should call it Pilates instead and not call the stretches by Hindu names.",
+        "id": "_qos9u7un1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I thought Shiva was a female too because it seemed to have feminine traits.",
+        "id": "_uldw1nisf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+bible-changes-community-the-destroyer/files/cernstatue.jpg",
+            "id": "blog/bible-changes-community-the-destroyer/cernstatue.jpg",
+            "ratio": 0.5625,
+            "caption": "",
+            "filename": "cernstatue.jpg"
+        },
+        "content": "",
+        "id": "_t6bpnzyno",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "But the statue at CERN is definitely male.",
+        "id": "_jiuos8wmb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+bible-changes-community-the-destroyer/files/malestatue.jpg",
+            "id": "blog/bible-changes-community-the-destroyer/malestatue.jpg",
+            "ratio": 0.5625,
+            "caption": "",
+            "filename": "malestatue.jpg"
+        },
+        "content": "",
+        "id": "_6h1h6mdbo",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "I think it's just a misconception because the name Shiva sounds feminine. At one point in time I also thought he was a female, mostly because of the way the name sounds.",
+        "id": "_oe1706j5s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Have you ever played Mortal Kombat (video game)?",
+        "id": "_62zreegbm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Yes. Scorpion was my favorite fighter. I don't how many times I've said \"get over here\" since that game.",
+        "id": "_95krisxf7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Do you remember GORO? The real big guy with multiple arms, I could have swore that he had six arms..when this whole Shiva statue missing arms came up I went and looked at mortal Kombat he only has four arms.",
+        "id": "_4z2exvwji",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I could be wrong, also I thought his daughter in the game had six arms.",
+        "id": "_r83ufkhkp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I remember Goro only having 4 arms. He had a special finishing move where the lower arms would pick the guy up and the remaining two arms would hammer first his head.",
+        "id": "_n0zvm7rwf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Fair enough.. like I said I could be wrong",
+        "id": "_q3e9im1g8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I used to follow hinduism before I got saved. Shiva always had 6 arms.",
+        "id": "_ccf5rpkmg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I'm not familiar with Angel of death passing over houses with the blood of the lamb, specifically the angel of death part. I thought it was always the Lord that did this.*[[Exo 12:21]] KJV* Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.The notes say Passover is lamb, but it's obviously been changed.*[[Exo 12:23]] KJV* For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you.Smite you makes me think that you specifically would be killed but later it's still the first born that's killed. This just looks off to me. Destroyer is new as well. Lord is in all caps.*[[Exo 12:33]] KJV* And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men.*sighs* We be again...",
+        "id": "_zq2skfwo0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Yes the Lord was the one who said he would pass over the city and look for the blood on the doors of ever home and if it was not there he would destroy them.",
+        "id": "_xwsgv9vg8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Not?",
+        "id": "_ceifcykqn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "ok, oops! If the blood was not there above their doors He would destroy them. Gotcha!",
+        "id": "_e58e5fh5r",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I have heard of Angel of death for at least 10 years. maybe(?) but I bet<br>you are right…people have always talked about Angel of death so could<br>this be why it has showed up? Will bigfoot be next?",
+        "id": "_fYaVEZuRV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "lol! Yes, the Lord will pass thru sounds correct. (That passage makes<br>it sound like the Lord &amp; the Angel of death are both there! Complete<br>confusion!) I do not know if it is true, but I have heard that LORD<br>means the Father &amp; Lord means Jesus, the Son, whether true or not,<br>idk.",
+        "id": "_s7jGjTqNV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "correct. No death angel, Shinigami, or Grimm Reaper.",
+        "id": "_rhyviwely",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Lord is another word for Master I think.",
+        "id": "_8qz009xok",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "vs 21 &amp; kill the passover? Oh bother, the Lord help us!",
+        "id": "_nah14eng6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eon the word destruction not destroyer. It was the Angel of death to pass over! Lambs Blood on the Lentil!Shiva is 3 gawds in one!",
+        "id": "_fcbbzdga1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "That is so weird! I found just one version that still has the Angel of Death! It was never the LORD who killed the first born children, it was always the Angel of Death. I mean just look at the wording. It says the LORD passes over and kills but then says it stops the destroyer/angel from killing?? No. This was done by the Angel of Death.",
+        "id": "_8odjfmaer",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We'll probably disagree on this one, but I remember this one as being the Lord doing it. Solid memory for me.",
+        "id": "_2ipurplf6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I know. The verse I referenced says close to the same thing. The reason I referenced it was to reveal that there is just one version left that still says \"Angel of Death\". It sounds like you think this verse is right as rain. I disagree. If you think the LORD flew over to kill the Egyptians then explain to me what the detroyer is? Do you think God is the destroyer? Does He need to keep Himself from killing the first borns living in the houses marked with blood?",
+        "id": "_pdrlgmenm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I don't think there was a destroyer.",
+        "id": "_5hbif733z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I can't find one image of the LORD passing over. The images are completely dominated by angles.",
+        "id": "_7n4i2udz5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "So you think there would be one? Nothing visual like a burning bush, but also because we don't know what God looks like.",
+        "id": "_0xy2mdgk2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "There are many artistic renderings of God, many of them painted in the Vatican which I've seen, most famously in the Sistine chapel. Certainly an image similar to these would've been used but instead they drew an angel?? Nope. The reason why the artistic record alligns with the Angel passing over is because it used to be an angel.",
+        "id": "_gffnpgmv8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "No question about it 6 arms this is an ME. I am not sure about those verses you mentioned, but destroyer seems inconsistent since Apollyon means destroyer.",
+        "id": "_f58rpnlg6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Do remember an what passed over the houses? I remember an angel passed over them, not God. Here's the Exodus verse again in the NKJV so we can see the reverential capitilzation. Notice it says \"and when He sees the blood\".It literally says God passed over the houses and and killed the firstborn Egyptians but then stopped \"the destroyer\" from killing the houses marked with blood. This makes no sense to me because it sounds like he is \"the destroyer\" but isn't because He stops \"the destroyer\". If God killed the firstborn then what did the destroyer do?For the Lord will pass through to strike the Egyptians; and when He sees the blood on the lintel and on the two doorposts, the Lord will pass over the door and not allow the destroyer to come into your houses to strike you. Exodus 12:23 NKJV",
+        "id": "_wfmaxrexf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Just wanted to apologise. Not trying to lead people on. OP did find lots of residue for Angel of death. Its not in my memory at all of an angel bring used there. I don't know why because I've read it multiple times as well as heard the history in church.",
+        "id": "_rv6dv4s7z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "No apology necessary. As long as you're being honest your feedback fills a purpose because it provides us with further understanding of the power of this phenomenon. I don't doubt you really do have a memory that is different than mine and if I was in your shoes I would have a difficult time in accepting something else. Nothing but love for you. Thanks for sharing your memory of this.",
+        "id": "_sktcbugno",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hey don't feel bad..like I said I have a dual memory of both...lots of Bible studies over the years. Do not feel bad, we cannot remember everything!",
+        "id": "_ymvgykrte",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This statue was absolutely 6 arms before and I had no idea this was a male. The pose is so feminine that I seriously thought Shiva was a female. The pointed toe and arched back seem extremely feminine. But, hey, why not? Everything is becoming blurred between the sexes everywhere! It's disgusting and I hat seeing it and I hate reading it in my Bible! Also, everyone here also remember Vitruvian Man having 6 limbs each too?",
+        "id": "_tdr9z60xv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Yes! Shiva was feminine and definitely had six arms! I think we discussed<br>this before. I wonder if as her “destruction” increases, she loses arms?<br>Maybe it means something?",
+        "id": "_2BeT8Grqf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Oh my goodness, your right,there were 6 arms!!!",
+        "id": "_q4d0ekygt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I saw a fitness magazine in CVS with the cover displaying a woman doing jumping Jack's with 6 arms/6 legs \"vitruvian man style\" picture the same day I found out vitruvian man only had 4 arms/legs now. It felt very demonic/ mocking the day that happened. Have you ever felt mocked by all of this? I certainly do at times.",
+        "id": "_7r7m3dlkr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This verse is off (like so many others)<br>Exodus 12:23<br>I remember -the angel of death passes<br>and I remember doorposts, not two side posts, <br>I’m not even sure lintel was there either...and in verse 22It mentions striking the lintel (and that sounds wrong)",
+        "id": "_nsrixd9cz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Yes, lintel used to be mantel and side posts used to be door posts. I posted another one that focused on the passover.",
+        "id": "_98ko3fml1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "you’re a good ME poster!!! Thanks",
+        "id": "_8v973cibd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Proverbs 28:24 is off<br>Actually I think they’re all off",
+        "id": "_osw66pua3",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- destroyer1.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: Bible Changes Community
+
+----
+
+Featured: 

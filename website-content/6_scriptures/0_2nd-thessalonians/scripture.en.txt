@@ -1,0 +1,18 @@
+Title: 2nd Thessalonians
+
+----
+
+Verses:
+
+- 
+  verse: 2nd Thessalonians 2:3
+  scripture: 'Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition:'
+  notes: ?
+- 
+  verse: 2nd Thessalonians 2:9
+  scripture: 'Even him, whose coming is after the working of Satan with all power and **signs and lying wonders**,'
+  notes: 'Even him, whose coming is after the working of Satan with all power and **lying signs and wonders**,'
+- 
+  verse: 2nd Thessalonians 2:10
+  scripture: 'And with all deceivableness of unrighteousness in them that perish: because they received not the love of the truth, that they might be saved.'
+  notes: ?

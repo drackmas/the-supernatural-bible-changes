@@ -1,0 +1,72 @@
+Title: To The Remnant #5
+
+----
+
+Date: 2019-10-18 11:35
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #5. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Revelations Effect.",
+        "id": "_gmHGbu4JB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "{ 4.} To The Remnant",
+        "id": "_eauHyDNjo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For in a time of peril there He is, now and Forever.<br>Do not be afraid.<br>As the Birds sing, and the fish swim,<br>There He is again.<br>In all that has been Created from the beginning, there He is. <br>His Creation bears witness to His Glorious name. <br>All of His Creation proclaims.<br>For The Creator so loved the World, He gave His only Begotten Son, <br>That whom shall ever believeth in Him, shall not perish but have Everlasting life. <br>We once were lost, yet now we are found, <br>We once were blind, yet now we see.",
+        "id": "_IjTVJ2f2T",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For He took our place.<br>We are Redeemed by Grace, Saved By Mercy, <br>Transformed by Love, born again.<br>Free from the death of sin.",
+        "id": "_WIpNxKmkP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "As He forgives us of our trespasses, let us forgive those who trespass against us. <br>For our Sins He blots out, remembering them no more. <br>From sea to sea, shore to shore.<br>Whom the Son sets Free, is Free indeed.<br>His yoke is easy, and His burden is light.<br>Now may the Lord take delight in Thee.<br>May He smile, and see thy heart.<br>For it is better give than to receive, and it is He <br>who gives so freely.",
+        "id": "_0bATPzij0",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

@@ -1,0 +1,282 @@
+Title: A Letter To Those That Are Still Asleep
+
+----
+
+Date: 2020-07-03 05:30
+
+----
+
+Author: 
+
+----
+
+Desc: A letter from a dear sister in Jesus Christ to those that are still asleep to the lying signs and wonders of 2 Thessalonians Chapter 2. She gives her testimony that the bible is indeed changing and shows examples of them that are all throughout scriptures now.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "If you are reading this, then it's because I believe you have a relationship with Jesus Christ and identify yourself as a Christian. As a fellow Christian I have something to share with you that the Holy Spirit has revealed to me. The bible instructs us in 1st John 4:1",
+        "id": "_vr15e2kps",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "1Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.",
+        "id": "_ndyzypcb8",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Please test what I am going to show you because it's incredible, unbelievable, and mind-blowing. It is also of critical importance to those of us who know the Lord.",
+        "id": "_PhsQMOMhj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The bible tells us in Amos 8:11",
+        "id": "_1gols24dt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The days cometh sayeth the Lord, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord. 12And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the words of the Lord, and shall not find it.",
+        "id": "_lj4z6pi3a",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "I am going to show you that those days spoken of in Amos are taking place and happening now in our time.",
+        "id": "_zfll38ize",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I have been reading the King James Version (KJV) of the Bible since I was 7. I always loved it's beautiful language and felt it was the most accurate translation from Hebrew/Greek. I avoided paraphrased versions of the Bible though I do have other versions. I took to heart Prov 4:4",
+        "id": "_4tj9sadjp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Let thine heart retain my words.",
+        "id": "_8ifnglotb",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "And John 14:26",
+        "id": "_cxjzc3d0x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all that I said to you.\"",
+        "id": "_447mwcgux",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Which is why, earlier this year, my heart was broken when I awoke to the fact that our scriptures are being altered. I don't mean new versions coming out or known differences between existing versions. I mean bibles I have had my whole life are no longer the same. The KJV has been especially attacked, but ALL versions of the bible have been altered.",
+        "id": "_o20ddqpaw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I know what you are thinking. The word of God can't be changed and it will stand forever. That is written in the bible. John chapter 1 and Revelations 19:13 say Jesus IS the WORD. That will never change.",
+        "id": "_0b3skr56e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Isaiah 40:8 says",
+        "id": "_wq8cdz663",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "8The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
+        "id": "_dgruoc9kx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "(AN: Just noticed this. Attaching a screenshot I searched for residue for the Lord instead of \"our God)",
+        "id": "_vw3kfrejp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+a-letter-to-those-that-are-still-asleep/files/screenshot_2020-07-03-3-aug-1891-page-2-the-philadelphia-inquirer-at-newspapers-com.png",
+            "id": "blog/a-letter-to-those-that-are-still-asleep/screenshot_2020-07-03-3-aug-1891-page-2-the-philadelphia-inquirer-at-newspapers-com.png",
+            "ratio": 1.3578643578643579,
+            "caption": "I remember \"word/words of the Lord\" and not \"our God\".",
+            "filename": "screenshot_2020-07-03-3-aug-1891-page-2-the-philadelphia-inquirer-at-newspapers-com.png"
+        },
+        "content": "",
+        "id": "_b3bz1cq9p",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "The word translated \"word\" here on Isaiah is dabar and it means the SPOKEN word of God.",
+        "id": "_KCrtoCLcE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Back to Amos 8:11 there will be a famine for hearing the words of the Lord. How can that be when there are bibles everywhere? The answer is that print and digital bibles are being corrupted, right now, in real time, right before our eyes. No longer can one pick up a bible and learn the amazing corrupted truth of Jesus in words that were handed down long ago. Do you have eyes to see and ears to hear? I pray that you do.",
+        "id": "_8Kyg6oJfD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Do you remember the verse about the lion laying down with the lamb? You won't find that verse in any bible now. It used to be in Isaiah 11:6. It now says the WOLF will dwell with the lamb. Grab any bible and look for yourself. If you google lion and lamb you will get pictures of lions and lambs, with text that says WOLF.",
+        "id": "_3nVeaJE78",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Some words are no longer present in the KJV that used to be there:<br>Hallelujah (spelled this way, which means praise God), Rev 19:3<br>Holy Spirit (with both words capitalized) 1Thes 4:8",
+        "id": "_Uk7Z7aAyd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Words have been switched:<br>All the \"demons\" have been promoted to \"devils\". (Luke7:33 and 1Tim 4:1)<br>Boats are now SHIPS. (Mark 1:19)<br>Wineskins are now BOTTLES. (Matt 9:17)<br>CORN is found all over the place where it used to say grain. (John 12:24 says a corn of wheat!)<br>Remember the sparrows? Now it's RAVENS (Luke 12:24)<br>There are no BIRDS now they are FOWLS (Mark 4:4)",
+        "id": "_U6ebsyeOx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Names have been changed:<br>JEREMY the prophet? (Matt 27:9)<br>NOE instead of Noah(Matt 24:37)<br>Zacharias instead of Zachariah (Matt 23:35)<br>Elias instead of Elijah (Matt 17:3)<br>MESSIAS instead of Messiah (John 1:41)<br>In fact you will not find a name in the KJV NT ending in iah or jah because that suffix means GOD!",
+        "id": "_lWo5ePbkN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "EASTER replaces Passover (Acts 12:4",
+        "id": "_aefAkDRBM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gay references: two men in one bed (Luke 17:34)<br>Two women grinding together (Luke 17:35)<br>Daniel had tender love with the prince of eunuchs (Dan 1:9)<br>Catch men (Luke 5:10)",
+        "id": "_oy9F3puqk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Misspelled words<br>Publick (Matt 1:19)<br>Lunatick (Matt 4:24)<br>Spunge (Matt 27:48)<br>Subtil (Gen 3:1)<br>Searjents (Acts 16:35)<br>Heretick (Titus 3:10)<br>Musick (Luke 15:25)<br>Cloke instead of cloak (Matt 5:40)<br>(AN: At one point \"magick\" inserted into the KJV but was later removed. Now you can only find this word in the book of Wisdom)",
+        "id": "_RyCNZKF5n",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Emojis now due to weird punctuation<br>Matt 24:15<br>Luke 23:51<br>Gal 1:1",
+        "id": "_aC8lJZX1Z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bowels instead of heart<br>(Phi 1:20)<br>(Phi 1:7)",
+        "id": "_Bj6OnmT0T",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Words that were NEVER in KJV<br>Stuff (Luke 18:31)<br>Matrix (Num 3:12)<br>Penny (Matt 22:19)<br>Booties (Hab 2:7)<br>Pictures (Num 33:52)<br>Pen (Job 19:24)",
+        "id": "_v8bhO2Awd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "There are nursing fathers (Num 11:12)<br>Jesus had paps? Those are nursing breasts! (Rev 1:13)",
+        "id": "_RXmsHdmAI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kidneys of wheat (Deut 32:14)",
+        "id": "_3TzdeFJII",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "There are dragons (Jer 10:22)<br>And unicorns now (Psa 29:6)",
+        "id": "_ysDBKuhVB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "There are thousands of changes identified by those who had the word of God written on their hearts and in their minds.",
+        "id": "_c9dpXOOLH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2 Thes 2",
+        "id": "_oy90ci5tp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "11And for this cause God shall send them a strong delusion, that they should believe a lie: 12That they all might be damned who believed not the truth",
+        "id": "_x9zhu7bn2",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Some think that this is what we're seeing now, the strong delusion.",
+        "id": "_cjpWuiEt9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How this is being done and by whom is a discussion for another day. The first step is to recognize that it's happening.",
+        "id": "_KiyGtbnRo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I urge you to pray, right now, and ask our Father about these things. We are in the end times, there is no more time to play church. Gods people need to run to Him, to the safety that is only found in Jesus.",
+        "id": "_jbljXmG9D",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "If you want to respond to this, I welcome the discussion. Wouldn't be the first time I was called crazy, probably won't be the last either. But that's ok as long as I'm good with God.<br>I prefer to keep this off my timeline as I don't want to waste time defending it to non-Christians who haven't read or studied the bible and would have no idea what it used to say.",
+        "id": "_AuhL7U1V3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Blessings brethren.",
+        "id": "_bG2GovKPW",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- writing.jpeg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: 
+
+----
+
+Featured: 

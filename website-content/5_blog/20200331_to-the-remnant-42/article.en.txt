@@ -1,0 +1,84 @@
+Title: To The Remnant #42
+
+----
+
+Date: 2020-03-31 23:30
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #42. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "——————-<br>27 - 1.5 <br>——————-<br>Let our hearts be that of flesh and not of stone.<br>Let us not repeat the history that is already known.<br>Exchanging hammers and nails.<br>For machines, that neither live or die.<br>To serve ourselves, a emptiness that can’t be seen.<br>By their servitude some feel as though they are free.",
+        "id": "_NAmHofrtZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The chains of this reality and calamity. <br>What once was on top of our desk,<br>is our desk-top and our home.<br>Now on top of our laps, carried in our hands,<br>machine and man.",
+        "id": "_nf2jvuo8N",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Almost embedded, now indebted society slaves, forgetting The One who Saves.",
+        "id": "_Y9klB7IZY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Connected, yet rejected, for how can machines comfort a heart?<br>Yet washing your dishes, cleaning your clothes, drying your hair.<br>Its everywhere, the world has prepared a table on their laps.<br>in our homes, a offering to their cells and phones.",
+        "id": "_5NyMmO6If",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We sow them pockets to carry them around.<br>As the world around us is flipped upside down.<br>How alone it must be, in a world that lives on empty.",
+        "id": "_WBIaCJDsl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Though man sown into machine is what want you to be.<br>Captivity, as those in a zoo looking upon what we do.<br>Many hide, looking through windows onto screens, the web of false reality.<br>Staring at a box, in hidden chains and locks.<br>To which there is no key, except by the Truth can we be free.",
+        "id": "_WDnSNJCn2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "They tell-a-vision, a flicker not seen.<br>The programing.<br>Now they say its in H-D. <br>The illusion, that is not meant to be perceived, mirrors to paint and reflect the false reality.<br>Seeking, yet how can the world find, when many have gone blind.<br>What is real, and what is true?<br>In this time of lying signs and wonders, do not give up the Heavenly Pursuit. <br>For what other good is there to do.<br>For there is no other Love, other then that which rains down from above.<br>Harmless as a dove, gentle as a lamb, He is the “ I AM.”<br>--It is the Glory of God to conceal a matter, but the honor of kings to search it out",
+        "id": "_CWORxds5R",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

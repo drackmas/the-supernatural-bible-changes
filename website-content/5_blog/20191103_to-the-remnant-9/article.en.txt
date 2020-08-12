@@ -1,0 +1,78 @@
+Title: To The Remnant #9
+
+----
+
+Date: 2019-11-03 11:45
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #9. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Revelations Effect. <br>For: The Remnant",
+        "id": "_kHaON32vz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Be not dismayed, for He is The Light that gives us Sight. <br>Even unto the darkest hour of the night.",
+        "id": "_zMLkT8ydW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Have courage, and be filled with joy, For He is our defense. <br>Even if all the world, shall take offense. <br>Let us remain, and be changed.<br>By the Power of His Name.<br>For He shall Return, in a blink of our eyes, In a moment.<br>All the World, and every knee shall bow.<br>Let us then, give Him The Glory now.",
+        "id": "_EptI85oQn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For we know the Time is at Hand.<br>He is the Foundation, not built of sand, <br>but of The Rock, which we stand, our Solid Ground.<br>Where All Hope is Found.",
+        "id": "_eCRsuAsC3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Leaning not on pages, or on things written, or things seen to be taken away.<br>For His Word, remains Alive Today. Forever to stay.<br>The Word which is Christ.<br>Who dwells in our hearts and Brings Abundant Life.",
+        "id": "_7r9bpL1Y9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Do not fear, the arrow by day, or the evil by night.<br>For His Mercy, is as running waters, beautiful and True.<br>May His Peace that surpasses all understanding <br>Be a Shield, and a Comfort to you.",
+        "id": "_s19YL2DVU",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

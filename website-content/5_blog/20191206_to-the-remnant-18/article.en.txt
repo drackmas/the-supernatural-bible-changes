@@ -1,0 +1,54 @@
+Title: To The Remnant #18
+
+----
+
+Date: 2019-12-06 12:10
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #18. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Revelations Effect- The Remanent — The Heart that is yet hidden, and Shepard who Loves--<br>The Lord looks upon the heart of man and sees what we cannot see. Where we may see anger, rage, sin. He sees a man at the end of his life, knocking in the only way he knows how. We cannot know the heart of man, unless the Lord reveals it to us. Even so we just see glimpses, its true beauty and shape still unknown as our eyes cannot perceive or comprehend the full depth of anthers heart.<br>For He alone know us as we are known. For He has both loved and known us from the beginning in His Love you will find no end.",
+        "id": "_2sXGoPOo0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "He is our Salvation, the Shepard calls to the heart of man, while the enemy pulls at the mind. Even unto changing seasons and times. Devising schemes and wickedness, that sow lies and strife, the author of all confusion. Seducing spirits and a great delusion.<br>Let us not sleep as the world sleeps, let us be sober and vigilante. Where there is hate let us sow love, where there is malice let us sow mercy. Where there is strife there is every evil work. So let us be peace keepers, wise as serpents harmless as doves, walking by the spirit in His love. Calling our thoughts captive to His Name, letting no darkness reign.",
+        "id": "_mem56iZqV",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

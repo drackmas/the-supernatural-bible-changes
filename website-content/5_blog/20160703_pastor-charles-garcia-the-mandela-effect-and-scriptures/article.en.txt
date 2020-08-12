@@ -1,0 +1,339 @@
+Title: Pastor Charles Garcia - The Mandela Effect and Scriptures
+
+----
+
+Date: 2016-07-03 11:25
+
+----
+
+Author: 
+
+----
+
+Desc: Charles Garcia teaches showing changes in Scripture to confuse & dislodge our Faith. We are admonished to act in faith trusting our memories and hearts.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Mandela Effect and Scriptures",
+        "id": "_x6lw5pg3z",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "-July 3, 2016",
+        "id": "_cl91ntyye",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_mowjancw0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ok. You may all take your seats now please. Let me get situated here. I hope everybody is ready for this. You'll see what I mean as we go along, but first I want to introduce and say you're watching the Church of the Free Church Ministry. My name is Charles Garcia. I'm the teaching pastor.",
+        "id": "_fq58UvxpE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This will be the most important message I've ever given. As you'll see as we go along here. Please make sure to have your bibles on hand especially tonight. Now you need to know or I need to remind you that I studied under Dr. Jean Scott for almost 30 years and have carried on his message for an additional 8 years and I base my scholarship on Dr. Scott's scholarship and teaching as well as on my own research and study that I've done independently. Long story short, from here on out in our faith lives you need to trust me. If you are a regular listening tithing congregant regarding scriptures and God's Word you'll hopefully will do that. Now take note and listen up.",
+        "id": "_MP0cPwfCD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I don't know how this is happening. I can guess why it's happening. First of all I want to ask the congregation in here and out there and give me a show of hands have you ever heard of the Mandela Effect? Some have. Some haven't. So I take it some out there have and some haven't. Your assignment this week is going to be to look up the Mandela Effect on your computer and become as familiar as you can be with it. I want to tell you in regards to that, you need to make sure we emphasize that you are not loosing your mind or going nuts.",
+        "id": "_IVIO4tifl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I want you to answer the next series of questions out loud to lead into this and to start to drive this nail home and then I'll give you the current answer.",
+        "id": "_aUlH7hH7e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "1. What does Snow White and later the Wicked Queen say to the mirror?<br>You said and I think all you out there said \"mirror mirror on the wall\". You're right but no longer. Now it says in the present reality \"magic mirror on the wall\". Check it out. We know it said \"mirror mirror\" right? Not now. Now that may seem trivial or silly and you may wonder what that has to do with anything but you'll see. Be patient and keep following.",
+        "id": "_TpQcrdUtg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2. What does Forrest Gump say about chocolates?<br>\"Life is like a box of chocolates\". You're right, but now in the present reality it says, \"Life WAS like a box of chocolates\". We know he said is right? Not now. Was is what is said now and there are many more examples of these kinds of discrepancies, changes, for a lack of a better word ministrations, that you're going to be finding.",
+        "id": "_MfLYYcZS2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "3. There are three examples in scriptures. There are more. Lots more. One that you may be familiar with and I hope you are. I know I certainly am. A part in the new testament says you cannot put old wineskins into new wineskins right? In this reality it says \"you can't put new wine in old bottles\" and bottles replaces wineskins. First of all I don't believe they used bottles in those days for wine. They may not have even had bottles. They put wines in wineskins. That is why it is called wineskins. Now if you want to look this up yourself you can find it in Matthew 9:17 and Mark 2:21 in the KJV bible.",
+        "id": "_3hBPaZXdE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "id": "blog/pastor-charles-garcia-the-mandela-effect-and-scriptures/mirror-mirror-snow-white.jpeg",
+            "ratio": 0.8583690987124464,
+            "caption": "Why does the wicked queen now say \"Magic Mirror on the wall\" instead of \"Mirror Mirror\"?",
+            "guid": "/pages/blog+pastor-charles-garcia-the-mandela-effect-and-scriptures/files/mirror-mirror-snow-white.jpeg",
+            "filename": "mirror-mirror-snow-white.jpeg"
+        },
+        "content": "",
+        "id": "_w8mmla9tx",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "id": "blog/pastor-charles-garcia-the-mandela-effect-and-scriptures/forrest-gump-life-is-like-a-box-of-chocolate.jpeg",
+            "ratio": 1,
+            "caption": "Check this movie out. It doesn't matter which copy. Forrest Gump will not say \"Life is like a box of chocolates…\" on any of them!",
+            "guid": "/pages/blog+pastor-charles-garcia-the-mandela-effect-and-scriptures/files/forrest-gump-life-is-like-a-box-of-chocolate.jpeg",
+            "filename": "forrest-gump-life-is-like-a-box-of-chocolate.jpeg"
+        },
+        "content": "",
+        "id": "_xgayvkjcc",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "id": "blog/pastor-charles-garcia-the-mandela-effect-and-scriptures/wineskins.jpg",
+            "ratio": 1.4421052631578948,
+            "caption": "My KJV Bible used to say wineskins in it for Matthew 9:17. Why can I not find ANY copy of the original KJV bible with wineskins in it anymore? They all have been supernaturally changed!",
+            "guid": "/pages/blog+pastor-charles-garcia-the-mandela-effect-and-scriptures/files/wineskins.jpg",
+            "filename": "wineskins.jpg"
+        },
+        "content": "",
+        "id": "_ilf4vm7h4",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "These issues seem to be specific to the KJV bible (AN: All bibles are changing supernaturally. The KJV is just the most altered at this point.) which we teach from. That's what we learned from under Dr. Scott because it was the best example of scripture although it is full of miss-translations. You'll also find it in Luke 5: 37.",
+        "id": "_RbU0DroCc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In Isaiah 11, most everyone is familiar with this and may not know it as Isaiah 11, but the question is \"What shall lay down with the lamb\"?",
+        "id": "_3pIFRM5XA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The Lion shall lay down with the lamb. Now in this reality it says \"The wolf shall dwell with the lamb\" and again like I said before CHECK IT OUT! Now lamb associates to Jesus and the Lion furthermore associates to Jesus who is the Lion of the tribe of Judah. The wolf usually associates with evil and with Satan as in scriptures that says \"beware of wolves in sheep's clothing\". I think we've all heard that.",
+        "id": "_TCwxHCw9d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "id": "blog/pastor-charles-garcia-the-mandela-effect-and-scriptures/lion-and-lamb.jpeg",
+            "ratio": 1.6045197740112995,
+            "caption": "We know that the Lion shall lay down with the Lamb. Why now does all versions say it is the wolf instead of the lion?",
+            "guid": "/pages/blog+pastor-charles-garcia-the-mandela-effect-and-scriptures/files/lion-and-lamb.jpeg",
+            "filename": "lion-and-lamb.jpeg"
+        },
+        "content": "",
+        "id": "_reoac7eez",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Now I want you to recite the Lord's Prayer out loud.",
+        "id": "_kho3sjyr8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\"Our Father Who art in Heaven<br>Hallowed be Thy Name<br>Thy Kingdom Come Thy Will be done<br>On Earth as it is in Heaven<br>Give us this day our daily bread<br>And forgive us our trespasses<br>As we forgive those who trespass against us<br>And lead us not into temptation<br>But deliver us from evil<br>For Thine is the Kingdom and the Power and the Glory<br>Forever and ever Amen.\"",
+        "id": "_p9z0qgssz",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "You, we, will no longer find that Lord's Prayer in your bible or in any bible in this reality. Now I want you to go with me first to Matthew 6. Let's start out at verse 8 to see the lead in to this. It says…",
+        "id": "_wr8zq01v6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Matthew Chapter 6<br>8 Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.<br>9 After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.<br>10 Thy kingdom come, Thy will be done in earth, as it is in heaven.",
+        "id": "_jnq3nryqd",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "(AN: Not sure if this has changed since Pastor Garcia read this, but in verse 8 this should say \"Our Father WHO art in heaven\" and not \"which\". This strangely sounds similar to \"witch\". I think we can clearly associate this with the black magic being used to change scriptures supernaturally.\" End AN)",
+        "id": "_jrgx14xre",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "No. We know it to say \"on\" earth. Now it says \"in\" earth as it is in heaven.",
+        "id": "_aole77it5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "11 Give us this day our daily bread.<br>12 And forgive us our debts, as we forgive our debtors.<br>13 And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.",
+        "id": "_0uxe65rct",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "(AN: As you can see here trespass/trespasses has been supernaturally changed to debts/debtors)",
+        "id": "_enjhy6gis",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Now don't loose track of this. Let's go to Luke 11. We're going to start out in verse 2. Now listen carefully and remember what we just recited together.",
+        "id": "_foe217i7q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Luke Chapter 11<br>2 And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.",
+        "id": "_w4z0ynj33",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "\"as in heaven, so in earth.\"",
+        "id": "_px7f0enph",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Now it says…",
+        "id": "_8b3juuax5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "3 Give us day by day our daily bread",
+        "id": "_36wpdn4vy",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "We know it to say \"Give us this day our daily bread\" but this says \"Give us day by day our daily bread\".",
+        "id": "_ovhpbc8fm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "And then it says…",
+        "id": "_s9bacs85x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "4 And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.",
+        "id": "_ud9f19yt2",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Nowhere in either passage does it say anything about trespasses does it? Did it?",
+        "id": "_n7kf3s4cv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Now I want you to know that because there are many changes, that these changes are not in contemporary or recent times. Like a change of marketing would be in a product. The understanding and the narrative now is that it has always been what we see in these changes and we know that NOT to be so.",
+        "id": "_4mut63gfd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What is going on?",
+        "id": "_0ltgqeda2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How is it being done?",
+        "id": "_rtlohl83j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We all know that scriptures says that in the end even the very elect if possible would be fooled. We know that a great deception is coming. We have postulated UFOs coming saying that they made us and that there is no God. This past September we waited with trepidation because we heard that the CERN machine or device would be turned on to it's highest level looking for the God particle and say it could open portals to alternate realities.",
+        "id": "_zd2hb61co",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Most people don't know that CERN has been used many times for several years. Who knows what it has done? Now Satan and his cohorts from the Illuminati would love to change God's words and to make him a liar or to avoid and postpone Satan's destiny if possible. Could this really be the great deception?",
+        "id": "_1qcw859jx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In my opinion it is. It's coming. Altering our reality. Now some feel at some point God will have gathered his little flock and prepared his greater flock and will close the door to salvation and redemption until the great tribulation and the millennium.",
+        "id": "_q3r5cdx98",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It may be too late or becoming too late for new recruits. Scary. What do we do? Trust your memory and go with and follow and support and trust your pastor ( AN: Most pastors deny the changes. If we were able to trust pastors that could see the changes like Pastor Garcia I would recommend his advice. I can only say to seek fellowship with other brothers and sisters that know the truth of the times we are in.) who is more well versed in these things than your average bear regarding scripture. What would you do if all the bibles in the world would be put in a big pile and burned? No more bibles. None.",
+        "id": "_7z0o373dn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I would hope you would do as you were taught and what you remember as the truth. That's what we need to do now. Now I may loose half my congregation over this because it sounds so nutty on the face of it, but it is actually going on.",
+        "id": "_0y9b6abom",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "She said \"Mirror Mirror\". He said \"Life IS like a box of chocolates\". Scriptures said \"new wine and old wineskins\" not bottles. Also the bible says \"The lion shall lay down with the lamb\" and not the wolf and the Lord's prayer is what we recited.",
+        "id": "_0jwmhbm1o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Now just remember 2 things. God's Word is forever settled where? In heaven. So whatever word that may come across you in front of you, His Word is settled over there in heaven. And also the second thing to remember is as King David said, \"The truth of God's Word and his laws are written in our hearts.\" We're not wrong.",
+        "id": "_h8l82akq7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "That's my message tonight.",
+        "id": "_ht85ls4u9",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- charles-garcia.jpg
+
+----
+
+Related:
+
+- >
+  blog/pastor-charles-garcia-more-on-the-mandela-effect-and-scripture
+
+----
+
+Category: 
+
+----
+
+Tags: Pastor Charles Garcia
+
+----
+
+Featured: yes

@@ -1,0 +1,90 @@
+Title: To The Remnant #13
+
+----
+
+Date: 2019-11-10 12:00
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #13. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "The Revelations Effect. The Remnant <br>The words, on the page.<br>No longer say you “Shall” be saved.<br>Written with ink and pen.<br>Now a great delusion.",
+        "id": "_BQj6zshNL",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What is it then, for the hearts of all who seek.<br>Yet do not seem to find, let them knock I pray before the final time. <br>What can the righteous do, when such evil as has sought to devour?<br>Oh Let us hear your Words I pray, in this hour.",
+        "id": "_35i0mn5Ru",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For where there is a famine, there is also a feast.<br>For those who earnestly seek.<br>Blessed are those that thirst for righteousness,.<br>For they shall thirst no more.<br>From sea to sea, and shore to shore.",
+        "id": "_ese48GwEu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We having Christ, and the The Holy Spirit, who dwells within. <br>Let us not lean on pages, written with ink and pen.<br>Let us be as Children,<br>Remembering our Heavenly Father Above,<br>Forgetting not we are loved.",
+        "id": "_RJynjYYSi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For He is a Good Shepard, who has been preparing His flock.<br>For this very, hour, and for this very day.<br>He sealed His Words in our hearts<br>Forever to stay.",
+        "id": "_N8oYGtNwS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Behold, a thief has come, not for money,<br>nor for gold, but for the Truth.<br>Let us not grow weary, nor faint.<br>For He is our Refuge, and Strength.",
+        "id": "_Z5NQXkKQ1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We were warned of a great delusion.<br>Let us not be deceived, by ink and pen.<br>For He is our Shepard and our Salvation.",
+        "id": "_4RBEnHNhW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Lord give to us this day our daily bread<br>For it is only by your Spirit we are fed.<br>Let us not have leaven, but only your Words from<br>Heaven.",
+        "id": "_pppDp7cDE",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 

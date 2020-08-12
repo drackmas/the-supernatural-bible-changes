@@ -1,0 +1,654 @@
+Title: Dana Ashlie - It's Time to GET where we're GOING
+
+----
+
+Date: 2020-07-12 05:50
+
+----
+
+Author: 
+
+----
+
+Desc: Transcription of Dana Ashlie's Youtube video. Anyone else feeling like getting outta dodge?
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Well hello Youtube family! It is me miss Dana Ashlie.",
+        "id": "_n31m5acm1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "How are you guys doing?",
+        "id": "_afbo7rmfe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Just wanted to get a quick video out to you today it is titled \"It's Time to GET where we're GOING\".",
+        "id": "_trv4psq7k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For allot of you this is all useless and redundant information but first I want to start by saying that I wanted to let you guys know that I said I would get out the Civil War Video 2.0 very long video out. My dad is visiting right now. We ended up going to the emergency room on July 4th and we've been in and out of the hospital since. However, everyone is ok now. No need to worry but it has definitely knocked me back a little bit in terms of schedule and time.",
+        "id": "_p2vxh108y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "That said, I wanted to share with you a little bit about my summary. Not only about what is going on because so many of you ask, but you guys know where they are attempting to take us right? But most of all, how I think it is time to use this little bubble of an opportunity to figure out who we want to hunker down with long term because this thing is not over.",
+        "id": "_t1v6fbf7i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "At first I really want to express my gratitude and being able to have you as my subscribers…best subscribers in the world…it's such a pleasure to hear from people like you who educate themselves…who have been in this world with all the propaganda we're getting but still manage to think critically. It just makes life just so much easier when you have people that understand what is going on in the world.",
+        "id": "_dlhdwltff",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Probably like you, there aren't allot of people in my real life that understand the levels of deception that are going on, but you guys have taken many many hours to dig into the HUGE contradictions…the obvious manipulations of these recent unprecedented events.",
+        "id": "_gp6ews0vp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "You have taken the time to learn the most damning facts about their entire premise through the video like the video I posted that got deleted that substantiates this entire pandemic that the tests that they use to confirm COVID. That the very man…",
+        "id": "_nkg5kxb4i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/theveryman.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/theveryman.png",
+            "ratio": 0.9450222882615156,
+            "caption": "Inventor of the PCR test, Kerry Mullis WARNED that the PCR test cannot be reliable in \"the diagnosis of infectious diseases\".",
+            "filename": "theveryman.png"
+        },
+        "content": "",
+        "id": "_tnw2srcle",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "…the Nobel peace prize of the PCR test itself..the supposed gold standard in testing this whole thing said plainly that they are \"not to be used for diagnostic purposes\". You have seen that the CDC admits cases were just presumed. You have seen how they have changed the death certificates to justify that. You understand what happens when you give hospitals great financial incentives to label something COVID.",
+        "id": "_uyk030152",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Yeah. You know what happens when they do that right?",
+        "id": "_mgniwtgc7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "…and you have also seen that on the blood test…the antibody test states too that it is not FDA approved but that it does not even have to differentiate between your COV19 and that stuffy nose that your kid got last November.",
+        "id": "_8hdutsv67",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The website for this testing shows…",
+        "id": "_3x7q8vo7j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "VivaDiag TM<br>COVID-19 lgM/lgG Rapid Test<br><br>VivaDiag TM COVID-19 lgM/lgG Rapid Test is for the rapid, qualitative detection of lgM and lgG antibodies to COVID-19 in human whole blood (fingertip/venous), serum or plasma. The test is for in vitro diagnostics only. And is intended for clinical laboratories and healthcare professional use for point-of-care testing. Not for at home testing.",
+        "id": "_o7yyubao9",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Scrolling down to the Warnings, Precautions and Limitations section we see…",
+        "id": "_evs26xi4x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "1 - This test HAS NOT been reviewed by the FDA.<br>Based on the FDA Policy for Diagnostic Tests for Coronavirus Disease published on March 16th, 2020 during the Public Health Emergency, FDA allows the distribution of COVID-19 lgM/lgG Rapid Tests in the US during the EUA application and review.<br>2 - Results from lgM/lgG antibody testing SHOULD NOT be used as the sole basis to diagnose or exclude SARS/CoV-2 (COVID-19) infection or to inform infection status.<br>3 - Negative results do not rule out SARS-CoV-2 infection, particularly in those who have been in contact with the virus. Follow-up testing with a molecular diagnostic should be considered to rule out infection in these individuals.<br>4 - Positive results may be due to past or present infection with non-SARS-CoV-2 coronavirus strains, such as coronavirus HKU1, NL63, OC43, or 229E. Follow-up testing with a molecular diagnostic should be considered to confirm the test results.<br>5 - Not for at home testing.<br>6 - Not for the screening of donated blood.",
+        "id": "_78b3zicw2",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "So. If you are like me you also marveled at the commonsense approach of the Tanzania President that had the forethought to test the test when he had samples taken of animals, birds, fruit, and even motor oil sent in with human names and ages and he saw that they came back positive…a significant portion of them with COVID-19.",
+        "id": "_rgdrexunf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/fakepositive.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/fakepositive.png",
+            "ratio": 1.8923766816143497,
+            "caption": "Tanzania President sharing false results to tests sent in of things not human. A majority of the results came back positive.",
+            "filename": "fakepositive.png"
+        },
+        "content": "",
+        "id": "_qj3jb29md",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "When we took the samples from a Pawpaw we named it Elizabeth Ane, 26 years old, Female. The results from the Pawpaw came back positive that it has Corona.",
+        "id": "_ynoz1wsfu",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Why does this event alone not stop the whole show in it's tracks? Well because the mainstream media responds in a way that completely defuses this discovery rather than portray it as the bombshell that it actually was so as a result these tests are still being used to rush out to mass amounts of Americans and their positive results are still being used to keep people in lock-down, prison term btw, so that we do what is imposed upon criminals who are under house arrest right?",
+        "id": "_9fyfttgwc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "…and yeah. These results of these completely faulty results are still being used to justify the fear fodder. I don't know about your state but at least here in California they are making millions from masks in which your actual oxygen is being reduced.",
+        "id": "_fnzy08qtz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We're doing a little test here today. Allot of people are saying they are getting headaches and such that they are requiring us to wear pretty much everywhere we go. I'm going to test oxygen level under a mask using a OSHA approved air quality monitor that tests for oxygen levels, hazardous gas levels, and such like that.",
+        "id": "_at60vzbfq",
+        "type": "blockquote"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/test1.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/test1.png",
+            "ratio": 0.6945898778359512,
+            "caption": "He's going to test oxygen levels under a mask using OSHA approved equipment.",
+            "filename": "test1.png"
+        },
+        "content": "",
+        "id": "_qo4sdbq5u",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "This monitor is tested every day. It is calibrated every 30 days. OSHA requires 19.5 percent oxygen to work in a space. Look it up…",
+        "id": "_ia64ipjvj",
+        "type": "blockquote"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/oshaoxygen.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/oshaoxygen.png",
+            "ratio": 1.902694610778443,
+            "caption": "Clarification of OSHA's requirement for breathing air to have at least 19.5 percent oxygen content.",
+            "filename": "oshaoxygen.png"
+        },
+        "content": "",
+        "id": "_ad7kh7kj4",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Normal oxygen levels is anywhere from 20-21 right in that area…so I'm going to do a little test here. I'm going to put the sampling tube at the corner of my mouth and I'm not exerted I'm just standing here. We're going to put it here that's going straight to the air quality monitor and we'll see what the air quality is without a mask.",
+        "id": "_b5dh4r6kd",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Results were 20.5 oxygen level placing the sensor by his mouth without a mask on.",
+        "id": "_jzodfylv3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "That is is the oxygen level without a mask. Going to do the same test in the same spot.",
+        "id": "_zu88y4j73",
+        "type": "blockquote"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/test2.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/test2.png",
+            "ratio": 0.5909090909090909,
+            "caption": "Testing oxygen level with a mask on.",
+            "filename": "test2.png"
+        },
+        "content": "",
+        "id": "_njrjzna2g",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Take a guess what it will be now.",
+        "id": "_4ygp9y451",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "You can hear the alarm going off. That means there is a hazardous atmosphere.",
+        "id": "_07sg28q22",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "OSHA requires 19.5 oxygen level.",
+        "id": "_8kuygwvfv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Then we'll see what the levels are.",
+        "id": "_m0g7i3zms",
+        "type": "blockquote"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/test3.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/test3.png",
+            "ratio": 1.3014354066985645,
+            "caption": "Result of testing oxygen levels behind a mask.",
+            "filename": "test3.png"
+        },
+        "content": "",
+        "id": "_me2dbgyex",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "17.4…17.5…it's starting to go back up.",
+        "id": "_fw8f85bvv",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "Putting America's dollar in the scope of total destruction…yeah. Well that's what happens when you suddenly print trillions of dollars out of thin air right? Anyways. I like to talk to you guys because you know these things. You already have paid attention to the bigger goal at play with all of this.",
+        "id": "_diz1g2gp6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "You listen to to my video…the other one that was deleted…that showed you the Rockefeller document (Scenarios for the Future of Technology and International Development/The Rockefeller Foundation/GBN Global Business Network) that proved this whole thing was laid out already over ten years that called for a lockstep due to a pandemic that would effectively shut down nonessential businesses. A lockstep with newly imposed levels of control over our lives that would stick as they put it.",
+        "id": "_1h5txdhk3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/locks.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/locks.png",
+            "ratio": 1.8241430700447094,
+            "caption": "This plan was set up years before they started this plan-demic.",
+            "filename": "locks.png"
+        },
+        "content": "",
+        "id": "_gtk25wjvz",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "That document makes it pretty obvious why they did it. It would give them the reason to implement what they've always wanted.",
+        "id": "_whd6odvlg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Complete. Constitutional. Control over the people.",
+        "id": "_snbe9rszt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "…and an economic economy reset.",
+        "id": "_81ud5ga34",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/newnormal.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/newnormal.png",
+            "ratio": 1.9582689335394128,
+            "caption": "The Guardian: The Covid-19 crisis creates a chance to reset economies on a sustainable footing",
+            "filename": "newnormal.png"
+        },
+        "content": "",
+        "id": "_l4dmaxbzw",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "A new normal that behooves them. Not we the people seeking to be free. So anyways, I just want to say I love you guys because you're awake. You're paying attention and you understand that we are at the beginning of something much much bigger. You have probably questioned the interesting timing of the entire and huge race war being set afire while this thing was not even yet over and this is an important observation because if you've studied psychological operations like MK Ultra…you understand that trauma and the fear bomb that they created with CV19 certainly qualifies…then it makes the mind much more suspect-able to programming…and you may have even heard that trauma has this very interesting effect of bonding people that go through things together right?",
+        "id": "_lsiu8zqa9",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "That's why the College Sororities haze…they publicly humiliate their initiates together. It's an attempt to bond them and make them more loyal to each other. There's deep roots to this stuff guys.",
+        "id": "_c9ikzs2zi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "So the perfectly timed Civil War psyop was provoked to severely and effectively break any potential bonding between our humans that may have happened in this country as a result from going what we just went through.",
+        "id": "_9xrb5rayx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "They certainly don't want that right?",
+        "id": "_cn29c9fsx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Civil War. A division among races. Another thing that they created since we actually all have ethnicities back to nations but they want to get rid of all that so its all just colors…check the box right? They wanted a Civil War division between races set afire so that just as we were just beginning to recover from the other one, it insured instead that we are divided more than ever…so yeah…but..you know as a little aside what's been incredibly disturbing for me is that just how odd it is that people have fallen into line with this whole thing because it was sold under the premise that our government was doing this for our \"safety\" right? Because our government has always been in business for looking out for our safety? Really?",
+        "id": "_2nl07ne96",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I mean to believe that you have to believe that everything they have done over the last 50 years has been for the safety for the people also. Things like approving a known cancer causing carcinogen ready Roundup Monsanto's poison love-child.",
+        "id": "_vqi6fvzxz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/roundup.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/roundup.png",
+            "ratio": 1.56071964017991,
+            "caption": "A cancer causing carcinogen called Roundup.",
+            "filename": "roundup.png"
+        },
+        "content": "",
+        "id": "_3uiw5jzn3",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "It attacks the immune system and has now lost court cases proving it causes cancer but it's still for sale and being doused on your food right now. Like the FDA continually approving one of the most toxic substance known to man elemental mercury to be put into the soft tissue next to the brain in silver amalgam fillings.",
+        "id": "_dmzvjrbwb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Go figure. Like the government approving another known poison a by-product of the aluminum industry sodium fluoride putting it into our water supply so that most can not effectively avoid it.",
+        "id": "_o7v6o1bu3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/fluoride.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/fluoride.png",
+            "ratio": 1.6014705882352942,
+            "caption": "Sodium Fluoride is Toxic Poison being put into our water supply!",
+            "filename": "fluoride.png"
+        },
+        "content": "",
+        "id": "_lkkwcqs5t",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "It causes calcification of the penal gland which can be linked to the increases we are seeing all over in Alzheimer's disease and dementia. Most interesting I think is the JAMA Pediatrics study that proved that mothers that who consumed fluoride while they were pregnant gave birth to children who ended up having lower IQ scores.",
+        "id": "_md1vg0u1e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "So…Yeah. You don't need to drink it. It can go right through your skin when you are in the shower but even though this stuff is proven to make us more stupid it's still being placed in your water supply today but now we're meant to take seriously that the government is only looking out for our safety?",
+        "id": "_uq0ombuii",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Come on guys. That they only have our best interest at heart when the virus has effectively given our civil rights over to them on a silver platter…given them levels of control they could have only dreamed of…",
+        "id": "_7x0rldty8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "So no. No level of media hype about what we need to do to \"stay safe\" is going to convince me that our government is suddenly in business about keeping us safe and I know a lot of you want to believe in Trump and I understand it because you love what America stands for at least what you've been told it stands for and you believe he's fighting for us but I just want you to just take a moment and look at the fruit right…not at tweets or words but actions.",
+        "id": "_7r95rl5so",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "We need to consider logically that he has fallen into line with expediting an s h o t that has never been successfully created in the history of them trying to create vaccines. Right…and he said he would use some of the military to help disperse it?",
+        "id": "_35ou5jtcy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Doesn't that make some of you go hmmm right? Since he has expedited the implementation of untested five g with it's proven…not a theory…proven oxygen disruption properties…that is given special funding to ensure it is installed even in the rural areas.",
+        "id": "_qly8hqwhu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This tells me allot about who's side it is and don't you think they needed us to believe that there was an outsider in the white house in order to pull this all off and to keep us on hopium right? So therefore we would be more accepting of what we see happening right in front of our eyes.",
+        "id": "_rr4sjfu29",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Because it seems to me as long as we have a news station like Fox pointing out that all the other stations are bad-mouthing the president, that's all it takes to convince people he's an outsider but remember Rupert Murdoch Fox founder just as much of a new world order shill as any CEO from any other leftist network. They have to pretend to be against each other on issues that don't matter so that we don't notice that both sides are supporting things like s h o t s and five g. The facts that I can't even say those should indicate to you what the agendas really are.",
+        "id": "_bcvwa5tkv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "By the way, just as my personal little two sense, there's no danger of Trump not being president in November. Like I said in 2016, Trump will be selected to be in charge when everything goes down. This is on purpose. In fact, it wouldn't even surprise me if he regained his position under the most controversial of circumstances. I don't know…who knows? Like a second wave comes and they can't have elections. Who knows? It doesn't matter he will be winning and he will be in charge when things really hit the fan so we have to be logical about this. This isn't about me being leftist. No way!",
+        "id": "_0916vncvm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "If anything if you want to label me I'm a libertarian. I mean I believe in the constitution. The constitution that we are no longer following ok? Because we know their tyrannical measures in the face of a virus…didn't even have to kill people anymore than a seasonal flue. I didn't say that. Fouci did. OK? They've proven that anyone can die almost under anything and it will be racked up as C O V I D 1 9.",
+        "id": "_0rtrq1ys7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I had a nurse who knew of my show who let us know that she saw a patient being rolled in who was yellow head to toe yellow with liver failure…died…and she saw a doctor mark it up as C O V I D. So can you even imagine when they turn on 60 gigahertz? The frequency Trump is fast tracking? The technology that he put multiple military agencies in charge of overseeing? The frequency that greatly interferes with the oxygen molecule?",
+        "id": "_h07hasu07",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "This is not my opinion. This is a fact. That's the nature of 60 gigahertz ok? Why would we even pick a frequency that has any kind of interaction with the thing we need the most to breathe? Doesn't make allot of sense to me. If Trump were truly on our side he would be demanding that the 60 gigahertz frequency goes into testing immediately on it's impact on humans but he won't do it. OK?",
+        "id": "_pgspxlt60",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "So if all these schools that all you guys have diligently sent me pictures of have actually used these months to install this stuff and kids go back to school this fall like they say they're going to and then they have trouble breathing or they start dying from respiratory distress and they have a long history of using innocent to manipulate us. Don't forget. If our babies start dying, can you even imagine the draconian measures they will manage to enforce.",
+        "id": "_hz5m2vokd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The measures they are stetting up like contact tracing right now. BTW please check out Joel Fullerton's website 4g dangers dot com to get more information about the important topic of 60 gigahertz and it's relationship to oxygen because he was the first one to come out and point this out to people and he definitely deserves the acknowledgement for that.",
+        "id": "_4gm8hbgbz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Long story short, many of us are seeing the writing on the wall here and so I'm asking \"where are we going guys?\" because probably allot of you guys are way smarter than me and you've already gotten into the situation where you are out of the city and you've become more self sufficient.",
+        "id": "_iotqm8lr1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Unfortunately I have been in a situation where I wasn't able to get to do that just yet. I'm still in southern California ok? And though I love where I am at the moment…I'm not in a big city…but I'm a little too close to one if you know what I mean. I don't know about you guys but I'm not looking forward to the society that it seems evident that the dorks behind the curtain seem hell bent on drumming up. It seems like we're in that rare moment in the eye of the storm even though the writing is all over walls and all these things have happened…things are still functioning at the moment. The dollar still exists. The grocery store still has food.",
+        "id": "_jj6d747f3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Channels like mine are still allowed to exist although on that topic please note this you guys…this is an important reason why I wanted to put this video up too. I have gotten word from some pretty high ups in you-tube that we alternative to mainstream media news sources are on the chopping block really soon. I was told we have three months.",
+        "id": "_me05nt6f1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In December, as many of you know, they changed the rules. They announced they don't have any obligation to give us three copyright strikes or whatever. They just said we will determine the parameters for which we consider you viable and we can just delete you no questions no apologies.",
+        "id": "_cef72psod",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "So one thing I wanted to let all you guys know who appreciate this kind of content. I was recent recently speaking to a lawyer friend and we were talking about what I would do with the channel if something went down and he was like \"well why don't you just email everyone?\". I was like \"oh my gosh\". We don't have anyone's email. Well I know if he thought that probably plenty of you also think that as subscribing to our channel we have access to your information but we do not. We do not have any way to get into contact with you unless you let us know that and so you know I've been asking for emails the last couple videos and out of the almost 250k subscribers I have about 10k emails which is just a drop but once I get enough emails so that I can directly contact you in case anything happens we're good right?",
+        "id": "_9p2m8wrbo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I can just let you know when I have a new video wherever I happen to post it. I just wanted to make sure that all of you know how important it is that we have this information so for those of you who haven't done it yet…you can go to my website…and right now all it is is a place to accept your information. The website is still being built so if you go to www.missdanaashlie.com",
+        "id": "_r4hwfji4d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Just note that danaashlie.com is NOT my website!",
+        "id": "_h74jei16o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Some of you say why does your website look so weird? Someone else got that domain from me when it expired and I didn't know and they put up a website pretending to be me for awhile. It's a whole long treacherous story I won't bore you with now. Just go there and put your info in now. You can put your phone number in now and I can text you with videos once I get that done. I'll never share your number with anyone it goes without saying but if you've already given me your email and you want to give me your cellphone number. One you can go to the email that was sent to confirm your subscription and add your phone number but if you don't have that no problem. Just throw in a different email and put your phone number in with that. That way the videos will go to all three and that's the best way to handle that.",
+        "id": "_grtkiqgh4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "But anyway my word of warning here is if there is a you-tuber out there that you like and there is a good chance that they could be deleted I would reach out and figure out where else their work will be. My work is on other multiple channels besides bit-chute and brighten I'm also on lbry dot com and a few others but if I have your email that goes we don't have to worry about any of that but of course I keep the patreons very well in the know as well so…",
+        "id": "_7huytfj0k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The real purpose of this video is to encourage you to the main point which is where do we want to be when all this stuff hits the fan? Who do you want your neighbor to be when all this gets real and when I first started this channel years ago I was hearing from folks who were like Oh I'm so glad you understand about tribulations and we are already saving some food for some other people that we know will be coming and we got land out here and there so yeah…allot of people are in different stages in their levels of preparation. God's guiding people at different times so I wanted to let you know in my website I plan on having a forum where it will be called \"Sanctuary Communities\" or \"Cities of Refuge\" something like that.",
+        "id": "_6rphetnw3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "And again that will be on MissDanaAshlie.com. As an example of someone who has talked to me about this I met through the channel a classical architect who is putting together a refuge in South Dakota because you know they never lock down there. They have exemptions from the s h o t s those sorts of things and he plans to create this community it's like…according to old testament principles. He's looking for other believers who are looking to be a part of it. Anyways, he's going to be posting there as an example.",
+        "id": "_txssunnev",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "But regardless of how or where you find your place I think it's important we begin thinking of coming together for the purpose of supporting one another possibly for combining resources…living in close proximity to one another to have fellowship and support because when this stuff hits the fan…this horrendous tattletale culture that is being formed right before our eyes…I mean who do you want your neighbor to be when you decide to go on a walk to get oxygen without a mask. You know what I mean? There's truth of course to the statement \"there is power in numbers\" and I believe part of the psyop of locking us into our homes is to remove us from our ability to have access to these support systems in our groups that brings us peace and who brings us love and support right?",
+        "id": "_a67r63p3v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I think that is a huge part in psychological warfare in general and T.I.s first thing they do is go after their support group. I don't know about you but I've heard of more suicides during this lock down than I've heard ever so makes sense to me to have a group that is not too big or too small where you even have people from a variety of backgrounds and God given gifts. I like to think the little house on the prairie. You know you've got your doctor or your E.M.T.s. You have your farmers. You have your wood workers. You have your people I think really would be important would be people who have access to alternative communications such as ham operators ok? Taking out the internet would not be shocking to me. You need access to water.",
+        "id": "_fypa41vnt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "What are we supposed to do when all of this stuff disappears? These are the kind of questions we need to be asking of course we need to be praying about this. I personally want to find a group that's familiar with electromagnetic frequencies being weaponized. I want to be around people who understand that the 5g towers they want to put on the phone poles are not something we're not interested in. I want to be around people who aren't self blasting 2.4 gigahertz and other weapons truly and I want people around who knows that this is a spiritual war.",
+        "id": "_z6wr8vmh7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "The gifts of the spirit will become increasingly important so people who are getting into these groups and are calling themselves Christian Militia…that's an oxymoron. There is no such thing. If you doubt me read Matthew 5 again slowly. This is a spiritual war not of flesh and blood but of principalities in high places right? We pray about things above so that things in our reality is very different. I personally would avoid being next to the coasts. That is about it for me I think but if you'd be interested in sharing with me what situation you have for my little troop group family here I've created an email on what seems to be a truly encrypted email server called tutanota so my email is <a title=\"here\" href=\"DanaAshlie@tutanota.com\">here</a>. So that's the only thing I'm going to be using this email for at first. It's to check into what people are sharing reguarding their little communities.",
+        "id": "_99g4kshyn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Also I have <a href=\"PO Box 3324 Blue Jay, CA 92317\">snail mail</a>.",
+        "id": "_0fbq3iyot",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Yeah. I don't know. It makes sense to me that kinda trying to get where we are going by the fall would make a lot of sense. I can only imagine what their second wave intends to look like given bill and Melinda's smirking faces when they spoke of it recently.",
+        "id": "_ujv4slkov",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Bill: You know they took their experience and actually prepared and so they moved allot faster. Uhh…So we…you know will have to prepare for the next one. That…you know I'd say is…will get attention this time (smirking).",
+        "id": "_1qhqo3p14",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "So please email me. Write to me if you feel led to about what you are doing and if you are looking for more in your group. This topic it tends to get a little weird because of the multiple of psyops that the government has performed to scare people from doing this very thing. Just understand that the fear that the cult propaganda has been very thick and very on purpose. They want people to be fearful and coming together in groups of like minds because they fear that because that is extremely beneficial for us. Again it's part of why they are isolating us and keeping us from doing that right now.",
+        "id": "_382vcg5ij",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Just know that if you dig a little bit every well promoted cult especially those that popped up all over the 70s and 80s you'll soon see their ties to c i a operatives. Charlie Manson and his murderous little hippie cult as well as Jim Jones of the people's temple in Jones town. Both proved to have deep links not only to c i a but to m k ultra experiments that they used to play out within the psyops.",
+        "id": "_e200dhtf4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "So when you look around and see that everyone around you is falling for this thing…they are falling for the fear…they are walking around each other in the isles…so disturbing…you know that these people are not going to be willing to be able to stand up for their personal freedoms…and it's only going to get worse from here in my opinion I know that a lot of you disagree but why don't we plan for the worst and hope for the best right?",
+        "id": "_9owe7yeup",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I just want to encourage everyone. If you haven't already to consider Who do we want our local support group to be? Who do you want your neighbor to be when shtf because we've already seen so much violence and hard hearts when we still have food in the fridge you know. What will hearts lead men to do when there is no food. When there is no order. These people stir up chaos so that they can then serve up their version of order that they want us to accept and then like what God offers people free will…they are cultists.",
+        "id": "_p9js12k10",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Order out of chaos is etched in our federal government buildings. They are telling you of their plans. They are telling you who they worship and it is not Father through the work of Jesus that they follow…so as always don't believe a word I say. Take this to the Holy Spirit and test all things and only keep what is good.",
+        "id": "_1anmfcfuv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "That will wrap this up for now. As always I appreciate you so much. Your emails, your kind words and support, your prayers, for now peace be with you, God bless you guys, I love you.",
+        "id": "_xta8l23sl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+dana-ashlie-it-s-time-to-get-where-we-re-going/files/danaashlie.png",
+            "id": "blog/dana-ashlie-it-s-time-to-get-where-we-re-going/danaashlie.png",
+            "ratio": 1.602540834845735,
+            "caption": "This is for Miss Dana Ashlie…not the people transcribing her work to share. Thank you and God bless you!",
+            "filename": "danaashlie.png"
+        },
+        "content": "",
+        "id": "_v0ovz6c2p",
+        "type": "image"
+    }
+]
+
+----
+
+Cover:
+
+- dana-ashlie.jpeg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: Dana Ashlie
+
+----
+
+Featured: 

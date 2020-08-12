@@ -1,0 +1,74 @@
+Title: Daniel
+
+----
+
+Verses:
+
+- 
+  verse: Daniel 2:19
+  scripture: >
+    Then was the secret revealed unto Daniel
+    in a night vision. Then Daniel blessed
+    the God of heaven.
+  notes: ?
+- 
+  verse: Daniel 2:20
+  scripture: 'Daniel answered and said, Blessed be the name of God **for ever** and ever: for wisdom and **might** are his:'
+  notes: 'Daniel answered and said, Blessed be the name of God **forever** and ever: for wisdom and **might** (maybe changed) are his:'
+- 
+  verse: Daniel 2:21
+  scripture: 'And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom that know understanding:'
+  notes: ?
+- 
+  verse: Daniel 3:5
+  scripture: 'That at what time ye hear the sound of the cornet, flute, harp, **sackbut**, psaltery, dulcimer, and all kinds of **musick**, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:'
+  notes: >
+    What is a sackbut? Satanic spelling of
+    music in here as well.
+- 
+  verse: Daniel 3:7
+  scripture: 'Therefore at that time, when all the people heard the sound of the cornet, flute, harp, **sackbut**, psaltery, and all kinds of **musick**, all the people, the nations, and the languages, fell down and worshipped the golden image that Nebuchadnezzar the king had set up.'
+  notes: |
+    What is sackbut?
+    This verse is spelling music in it's satanic form.
+- 
+  verse: Daniel 3:10
+  scripture: 'Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, **sackbut**, psaltery, and dulcimer, and all kinds of **musick**, shall fall down and worship the golden image:'
+  notes: |
+    What is a sackbut?
+    Using the satanic form of music.
+- 
+  verse: Daniel 7:21
+  scripture: 'I beheld, and the same horn made war with the saints, and prevailed against them:'
+  notes: ?
+- 
+  verse: Daniel 7:22
+  scripture: 'Until the Ancient of **days** came, and **judgment** was given to the saints of the **most** High; and the time came that the saints possessed the kingdom.'
+  notes: >
+    Until the Ancient of Days came, and
+    judgement was given to the saints of the
+    Most High; and the time came that the
+    saints possessed the kingdom.
+- 
+  verse: Daniel 7:25
+  scripture: 'And he shall speak great words against the Most High, and shall **wear out** the saints of the Most High, and think to change times and laws: and they shall be given into his hand until a time and times and the **dividing of time**.'
+  notes: 'And he shall speak great words against the Most High, and shall **wear out** (vex?) the saints of the Most High, and think to change times and laws: and they shall be given into his hand until a time and times and the **dividing of time** (half a time?).'
+- 
+  verse: Daniel 12:4
+  scripture: 'But thou, O Danel, **shut up** the words, and seal the book, even to the time of the end: many shall run **to and fro**, and knowledge shall be increased.'
+  notes: |
+    But thou, O Danel, **shut up** (did it say shut up?) the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.
+    
+    Not sure about "to and fro" if it is a change or not.
+- 
+  verse: Daniel 12:7
+  scripture: 'And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand unto heaven, and **sware** by him that liveth **for ever** that it shall be for a time, times, and **half**; and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished.'
+  notes: 'And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand unto heaven, and **sware** (What is this!!!) by **Him** that liveth **forever** that it shall be for a time, times and half (did it remove "a time"?); and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished.'
+- 
+  verse: Daniel 12:9
+  scripture: 'And he said, Go thy way, Daniel: for the words are closed up and sealed till the time of the end.'
+  notes: ?
+- 
+  verse: Daniel 12:10
+  scripture: 'Many shall be purified and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand: but the wise shall understand.'
+  notes: ?

@@ -1,0 +1,60 @@
+Title: To The Remnant #41
+
+----
+
+Date: 2020-03-28 23:30
+
+----
+
+Author: 
+
+----
+
+Desc: To The Remnant #41. A message to our brothers and sisters going through these rough times during end days. Written from a dear sister in Jesus Christ.
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "What is old, or new under the sun?<br>His will Shall be done, His Kingdom come.<br>On Earth as it is in Heaven.<br>For manna still falls from the Heavens,<br>Feeding the shipwrecked hearts and those who the world would despise.<br>What is hidden from His eyes.Even a sparrow in the night does not escape His sight.<br>For by His Might alone, He is the shelter we can call our home.",
+        "id": "_Zx3so5cPg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Though even at the doors, He protects our house, for what famine is there from Heaven.<br>For those who live on more than just leaven.<br>He is The first and the last, the all and the everything there ever will be,<br>The King of Kings.",
+        "id": "_resh4EKou",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "In the tents of His tabernacle, are scoffers and those who sell for gain.<br>Having no Honor in His Name.<br>Yet we having His Name proclaim The Truth.<br>For He is a Good Shepard, He does not dwell afar off.<br>Only speaking to give correction or direction.<br>For in all things He can teach us lessons, by His Words we are lead and fed.<br>Knowing what what we ought to know.<br>For He tells us so.<br>We are as Trees planted for this time,He is the fruit of the vine.<br>His Words, sown in Love and by love, they grow.<br>For it is a miracle for water to be wine.<br>Yet rain falls from the skies and it is so.<br>Even the sparrow He watches, <br>as a tree is planted so must we be.<br>For the good fruit is of the vine, sown for a season and time.<br>The Truth given in Love, seeds to plant, and seeds to grow.<br>He is the Light, that out shines the sun.<br>What other Glory is there, than in Him alone. <br>What battle, cannot be won?<br>David only used 1 stone, to slay goliath.<br>We must remember who already triumphed,<br>He is Mighty to Save, His Name is above all Names. <br>He who already conquered death and the grave.",
+        "id": "_Dm5cTyyHp",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover:
+
+- remnant.jpg
+
+----
+
+Related: 
+
+----
+
+Category: 
+
+----
+
+Tags: To The Remnant
+
+----
+
+Featured: 
